@@ -1,0 +1,125 @@
+/*
+ Theme Name:   Grow Organic Local
+ Theme URI:    http://groworganiclocal.com
+ Description:  Grow Organic Local Theme
+ Author:       DJ Wilkerson
+ Author URI:   http://dogburndesign.com
+ Template:     storefront
+ Version:      1.0.0
+ Text Domain:  groworganiclocal
+*/
+
+/*   FONT IMPORT   */
+@import url(http://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700|Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900,900italic);
+
+
+/*  VARIABLES and MIXINS   */
+@sans-serif: 'Roboto', sans-serif;
+@serif: 'Roboto Slab', serif;
+@brown: #56463E;
+@orange: #EA773B;
+@green: #539E6A;
+@light-grey: #f3f3f3;
+.link-animation{
+    transition: all .2s;
+    -webkit-transition: all .2s;
+    -moz-transition: all .2s;
+}
+
+/*   GLOBAL STYLING   */
+*{
+    font-family: @sans-serif;
+}
+a{
+    color:@orange;
+}
+a:focus{
+    outline:0;
+    color:@green;
+}
+h1, h2, h3, h4, h5, h6{
+    font-family: @serif;
+}
+button, input[type="button"], input[type="reset"], input[type="submit"], .button, .added_to_cart, .widget-area .widget a.button, .site-header-cart .widget_shopping_cart a.button{
+    background-color: @orange;
+    .link-animation();
+}
+
+/*   HEADER AND NAVIGATION    */
+.site-header .site-logo-link img{
+    height:150px;
+    width: auto;
+}
+.site-header .site-logo-link:focus, .secondary-navigation ul.menu a:focus{
+    background: 0;
+    color:@orange;
+}
+.main-navigation ul li a{
+    color:@brown;
+    .link-animation();
+    font-family: @serif;
+    border-bottom: 5px solid transparent;
+    font-weight: normal;
+}
+.main-navigation ul li a:hover{
+    color:@orange;
+    border-bottom: 5px solid @orange;
+}
+.main-navigation ul li a:focus{
+    outline: 0;
+    background: @light-grey;
+    color:@green;
+    border-bottom: 5px solid @green;
+}
+.current_page_item a{
+    color:@orange !important;
+    border-bottom:5px solid @orange !important;
+}
+
+
+/*   CONTENT   */
+.hentry .entry-header h1, h1 a, .alpha a{
+    font-family: @serif;
+}
+blockquote{
+    border-left: 5px solid @orange;
+}
+.woocommerce-info, .woocommerce-noreviews, p.no-comments{
+    background-color: @orange;
+}
+a:focus, .button:focus, .button.alt:focus, .button.added_to_cart:focus, .button.wc-forward:focus, button:focus, input[type="button"]:focus, input[type="reset"]:focus, input[type="submit"]:focus{
+    outline: 0;
+}
+a:focus, .button:focus{
+    color: #fff;
+    background-color: @orange;
+}
+.page-template-template-homepage .site-main{
+    padding-top: 1em;
+}
+
+
+/*   WIDGET BAR   */
+.widget h3.widget-title{
+    font-family: @serif;
+    font-weight: normal;
+}
+.widget-area .widget a{
+    color: @orange;
+    .link-animation();
+}
+.widget-area .widget a:focus{
+    color:@orange;
+    outline: 0;
+}
+
+
+/*   FOOTER  */
+.site-footer a:not(.button){
+    color:@orange;
+    .link-animation();
+}
+.site-footer a:not(.button):focus{
+    color:@green;
+    outline: 0;
+}
