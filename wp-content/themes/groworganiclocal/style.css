@@ -1,4 +1,5 @@
 @import url(http://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700|Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900,900italic);
+@import url(css/bootstrap.min.css);
 /*
  Theme Name:   Grow Organic Local
  Theme URI:    http://groworganiclocal.com
@@ -22,6 +23,7 @@
 }
 a {
   color: #ea773b;
+  text-decoration: none !important;
 }
 a:focus {
   outline: 0;
@@ -52,6 +54,9 @@ input[type="submit"],
 .site-header .site-logo-link img {
   height: 150px;
   width: auto;
+}
+.menu-toggle {
+  color: #fff;
 }
 .site-header .site-logo-link:focus,
 .secondary-navigation ul.menu a:focus {
@@ -85,14 +90,38 @@ input[type="submit"],
 .site-search .widget_product_search input[type=text] {
   border-radius: 5px;
 }
+.site-header-cart .cart-contents {
+  color: #56463e;
+  transition: all .2s;
+  -webkit-transition: all .2s;
+  -moz-transition: all .2s;
+}
+.site-header-cart .cart-contents:hover {
+  color: #ea773b;
+}
+a.cart-contents,
+.site-header-cart .widget_shopping_cart a {
+  color: #ea773b;
+  transition: all .2s;
+  -webkit-transition: all .2s;
+  -moz-transition: all .2s;
+}
+a.cart-contents,
+.site-header-cart .widget_shopping_cart a:hover {
+  color: #539e6a;
+}
 /*   CONTENT   */
 .woocommerce-breadcrumb {
   border-bottom: 1px solid rgba(234, 119, 59, 0.5);
+  display: none;
 }
 .hentry .entry-header h1,
 h1 a,
 .alpha a {
   font-family: 'Roboto Slab', serif;
+}
+.hentry .entry-header {
+  margin-bottom: 1em;
 }
 blockquote {
   border-left: 5px solid #ea773b;
@@ -118,8 +147,46 @@ a:focus,
   color: #fff;
   background-color: #ea773b;
 }
+.gol-collapse a {
+  transition: all .2s;
+  -webkit-transition: all .2s;
+  -moz-transition: all .2s;
+}
+.gol-collapse a:focus {
+  color: #539e6a;
+  background-color: transparent;
+}
+.gol-collapse h4 {
+  margin-bottom: -30px;
+}
 .page-template-template-homepage .site-main {
   padding-top: 1em;
+}
+.wc-proceed-to-checkout .button.checkout-button,
+.button.alt {
+  background-color: #539e6a;
+}
+.button.alt:hover {
+  background-color: rgba(83, 158, 106, 0.69);
+}
+.row {
+  margin-bottom: 10px;
+}
+.single-product div.product table.variations .value select {
+  font-size: 17px;
+  font-family: 'Roboto Slab', sans-serif;
+  background-color: transparent;
+  width: 100%;
+  color: #484C51;
+}
+input[type="text"],
+input[type="email"],
+input[type="url"],
+input[type="password"],
+input[type="search"],
+textarea,
+.input-text {
+  width: 100%;
 }
 /*   WIDGET BAR   */
 .widget h3.widget-title {

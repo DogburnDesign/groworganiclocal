@@ -1,0 +1,73 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700|Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900,900italic);
+.login form{
+    background-color: #fafafa;
+}
+.login .message{
+    border-left: 4px solid #539E6A;
+}
+#login{
+    padding: 0 0 0;
+    width: 500px;
+}
+html,body{
+    background: #fff;
+    font-family: 'Roboto',sans-serif;
+}
+#login h1:first-child a:first-child{
+    padding-bottom: 0;
+}
+.cimy_uef_input_27 input[type=password]{
+    font-size: 24px;
+    width: 100%;
+    padding: 3px;
+    margin: 2px 6px 16px 0;
+}
+.cimy_uef_wp_p_field_1 label {
+    color: #777;
+    font-size: 34px;
+}
+.login label{
+    font-family: 'Roboto Slab', sans-serif;
+}
+input[type=text], input[type=search], input[type=radio], input[type=tel], input[type=time], input[type=url], input[type=week], input[type=password], input[type=checkbox], input[type=color], input[type=date], input[type=datetime], input[type=datetime-local], input[type=email], input[type=month], input[type=number], select, textarea{
+        font-size: 24px;
+    width: 100%;
+    padding: 3px;
+    margin: 2px 6px 16px 0;
+}
+input[type=text]:focus, input[type=search]:focus, input[type=radio]:focus, input[type=tel]:focus, input[type=time]:focus, input[type=url]:focus, input[type=week]:focus, input[type=password]:focus, input[type=checkbox]:focus, input[type=color]:focus, input[type=date]:focus, input[type=datetime]:focus, input[type=datetime-local]:focus, input[type=email]:focus, input[type=month]:focus, input[type=number]:focus, select:focus, textarea:focus{
+    border-color: #539E6A;
+}
+select{
+    font-size: 15px;
+}
+input[type=checkbox] {
+    width: auto;
+}
+.wp-core-ui .button-group.button-large .button, .wp-core-ui .button.button-large{
+    background-color: #539e6a;
+    border: 0;
+    border-color: #60646c;
+    color: #fff;
+    cursor: pointer;
+    line-height: 1;
+    padding: 0.618em 1em;
+    text-decoration: none;
+    font-weight: 700;
+    text-shadow: none;
+    display: inline-block;
+    outline: none;
+    -webkit-appearance: none;
+    -webkit-font-smoothing: antialiased;
+    border-radius: 0;
+    box-shadow: inset 0 -2px 0 rgba(0, 0, 0, 0.2), 0 1px 1px rgba(0, 0, 0, 0.1);
+    transition: all .2s;
+    -webkit-transition: all .2s;
+    -moz-transition: all .2s;
+}
+.wp-core-ui .button-group.button-large .button, .wp-core-ui .button.button-large:hover {
+    background-color: rgba(83, 158, 106, 0.69);
+}
+.wp-core-ui .button-group.button-large .button, .wp-core-ui .button.button-large:focus{
+    background-color: #EA773B;
+}
