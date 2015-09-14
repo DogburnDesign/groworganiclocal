@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Storefront\n"
 "Report-Msgid-Bugs-To: https://github.com/woothemes/storefront/issues\n"
-"POT-Creation-Date: 2015-08-11 11:08:07+00:00\n"
-"PO-Revision-Date: 2015-08-11 11:07+0000\n"
+"POT-Creation-Date: 2015-09-10 10:48:10+00:00\n"
+"PO-Revision-Date: 2015-09-10 10:48+0000\n"
 "Last-Translator: James Koster <jay@woothemes.com>\n"
 "Language-Team: Italian (Italy) (http://www.transifex.com/woothemes/storefront-1/language/it_IT/)\n"
 "MIME-Version: 1.0\n"
@@ -27,19 +27,15 @@ msgstr "Ops! Questa pagina non pu&ograve; essere trovata."
 msgid ""
 "Nothing was found at this location. Try searching, or check out the links "
 "below."
-msgstr ""
+msgstr "Non è stato trovato niente qui. Prova a fare una ricerca, o controlla i collegamenti qui sotto."
 
-#: 404.php:39 inc/structure/template-tags.php:103
-msgid "Featured Products"
-msgstr "Prodotti in Evidenza"
-
-#: 404.php:50 inc/structure/template-tags.php:26
+#: 404.php:45 inc/structure/template-tags.php:26
 msgid "Product Categories"
 msgstr "Categorie Prodotto"
 
-#: 404.php:59
+#: 404.php:54
 msgid "Popular Products"
-msgstr ""
+msgstr "Prodotti Popolari"
 
 #: comments.php:33 comments.php:51
 msgid "Comment navigation"
@@ -85,20 +81,20 @@ msgstr "Migliora il tuo sito"
 msgid ""
 "Below you will find a selection of Storefront extensions that could help "
 "improve your online store."
-msgstr ""
+msgstr "Qui di seguito troverai una selezione di estensioni per Storefront che ti possono aiutare a migliorare il tuo negozio online."
 
 #: inc/admin/welcome-screen/sections/add-ons.php:16
 msgid ""
 "Refine your shop archives and product pages with the Storefront WooCommerce "
 "Customiser"
-msgstr ""
+msgstr "Raffina gli archivi del tuo negozio e le pagine del prodotto con Storefront WooCommerce Customiser"
 
 #: inc/admin/welcome-screen/sections/add-ons.php:18
 msgid ""
 "The Storefront WooCommerce Customiser extension gives you further control "
 "over the look and feel of your shop. Change the product archive and single "
 "layouts, toggle various shop components and more."
-msgstr ""
+msgstr "L'estensione Storefront WooCommerce Customiser ti da completo controllo sull'aspetto e l'usabilità del tuo negozio. Modifica il layour dell'archivio dei prodotto e della pagina singola, abilita vari componenti del negozio e altro."
 
 #: inc/admin/welcome-screen/sections/add-ons.php:21
 #: inc/admin/welcome-screen/sections/add-ons.php:34
@@ -149,7 +145,7 @@ msgstr "Compra ora %sStorefront Designer%s"
 msgid ""
 "Optimize the checkout page at your store with the Storefront Checkout "
 "Customiser"
-msgstr ""
+msgstr "Ottimizza la pagina di checkout del tuo negozio con Storefront Checkout Customiser"
 
 #: inc/admin/welcome-screen/sections/add-ons.php:57
 msgid ""
@@ -163,44 +159,44 @@ msgstr ""
 #: inc/admin/welcome-screen/sections/add-ons.php:62
 #: inc/admin/welcome-screen/sections/add-ons.php:75
 msgid "Buy %sStorefront Reviews%s now"
-msgstr ""
+msgstr "Compra ora %sStorefront Reviews%s"
 
 #: inc/admin/welcome-screen/sections/add-ons.php:68
 msgid ""
 "Highlight favourable reviews throughout your store with Storefront Reviews"
-msgstr ""
+msgstr "Metti in evidenza le migliori recensioni sul tuo negozio con Storefront Reviews"
 
 #: inc/admin/welcome-screen/sections/add-ons.php:70
 msgid ""
 "Reading a positive review can be what converts a visitor into a customer. "
 "The Storefront Reviews extension allows you to highlight positive reviews "
 "across your site to showcase your most popular products."
-msgstr ""
+msgstr "Leggere una recensione positiva può essere ciò che converte un visitatore in un cliente. L'estensione Storefront Reviews ti permette di mettere in evidenza le recensioni positive sul tuo sito per mostrare i tuoi prodotti più popolari."
 
 #: inc/admin/welcome-screen/sections/child-themes.php:11
 msgid "Get a whole new look"
-msgstr ""
+msgstr "Ottieni un aspetto completamente nuovo"
 
 #: inc/admin/welcome-screen/sections/child-themes.php:14
 msgid ""
 "Below you will find a selection of Storefront child themes that will "
 "instantly transform the look and feel of your Storefront shop."
-msgstr ""
+msgstr "Qui di seguito troverai una selezione di child theme per Storefront che trasformeranno istantaneamente l'aspetto e l'usabilità del tuo negozio con Storefront."
 
 #: inc/admin/welcome-screen/sections/child-themes.php:19
 msgid "Proshop Child Theme"
-msgstr ""
+msgstr "Child Theme Proshop"
 
 #: inc/admin/welcome-screen/sections/child-themes.php:20
 msgid "Proshop"
-msgstr ""
+msgstr "Proshop"
 
 #: inc/admin/welcome-screen/sections/child-themes.php:21
 msgid ""
 "Unlock the true potential of your sports clothing and equipment store with "
 "ProShop! It's metropolitan design provides an active aesthetic giving your "
 "store oodles of character."
-msgstr ""
+msgstr "Sblocca il vero potenziale del tuo negozio di abbigliamento ed equipaggiamento sportivo con ProShop! Il suo design metropolitano da un'estetica attiva dando al tuo negozio un bel pò di carattere."
 
 #: inc/admin/welcome-screen/sections/child-themes.php:24
 #: inc/admin/welcome-screen/sections/child-themes.php:35
@@ -220,7 +216,7 @@ msgid ""
 "Galleria is a Storefront child theme perfect for fashion and design stores. "
 "Stylish and minimalist, it gives sites a high class look and keeps products "
 "centerstage."
-msgstr ""
+msgstr "Galleria è il child theme di Storefront perfetto per negozi di moda e design. Con stile e minimalista, da ai siti un aspetto di gran classe e tiene in prodotti al centro dello stage."
 
 #: inc/admin/welcome-screen/sections/child-themes.php:41
 msgid "Boutique Child Theme"
@@ -229,7 +225,7 @@ msgstr "Child Theme Boutique"
 #: inc/admin/welcome-screen/sections/child-themes.php:42
 #: inc/admin/welcome-screen/sections/child-themes.php:55
 msgid "Free!"
-msgstr ""
+msgstr "Gratuito!"
 
 #: inc/admin/welcome-screen/sections/child-themes.php:43
 msgid "Boutique"
@@ -299,25 +295,25 @@ msgstr "Configura i men&ugrave;"
 msgid ""
 "Storefront includes three menu locations for primary, secondary and handheld"
 " navigation. "
-msgstr ""
+msgstr "Storefront include tre posizioni per i menù per la navigazione primaria, secondaria e con dispositivo mobile."
 
 #: inc/admin/welcome-screen/sections/getting-started.php:32
 msgid ""
 "The primary navigation is perfect for your key pages like the shop and "
 "product categories. "
-msgstr ""
+msgstr "La navigazione primaria è perfetta per le tue pagine chiave come il negozio e le categorie di prodotto."
 
 #: inc/admin/welcome-screen/sections/getting-started.php:33
 msgid ""
 "The secondary navigation is better suited to lower traffic pages such as "
 "terms and conditions."
-msgstr ""
+msgstr "La navigazione secondaria funziona meglio per le pagine a basso traffico come i termini e condizioni."
 
 #: inc/admin/welcome-screen/sections/getting-started.php:34
 msgid ""
 "The handheld navigation gives you complete control over what menu items to "
 "serve to handheld devices."
-msgstr ""
+msgstr "La navigazione per dispositivi mobili ti da controllo completo su quali elementi avere nel menù da mostrare sui dispositivi mobili."
 
 #: inc/admin/welcome-screen/sections/getting-started.php:36
 msgid "Configure menus"
@@ -345,7 +341,7 @@ msgstr "Aggiungi il tuo logo"
 msgid ""
 "Install and activate %sJetpack%s to enable a custom logo option in the "
 "Customizer."
-msgstr ""
+msgstr "Installa ed attiva %sJetpack%s per abilitare l'opzione del logo personalizzato nel Customizer."
 
 #: inc/admin/welcome-screen/sections/getting-started.php:52
 msgid "Install Jetpack"
@@ -394,17 +390,17 @@ msgstr "Vedi documentazione &rarr;"
 
 #: inc/admin/welcome-screen/sections/getting-started.php:76
 msgid "Install free plugins"
-msgstr ""
+msgstr "Installa i plugin gratuiti"
 
 #: inc/admin/welcome-screen/sections/getting-started.php:77
 msgid ""
 "There are a number of free plugins available for Storefront on the "
 "wordpress.org plugin repository."
-msgstr ""
+msgstr "Ci sono alcuni plugin gratuiti disponibili per Storefront sulla repository dei plugin di wordpress.org."
 
 #: inc/admin/welcome-screen/sections/getting-started.php:80
 msgid "Storefront Product Sharing"
-msgstr ""
+msgstr "Storefront Product Sharing"
 
 #: inc/admin/welcome-screen/sections/getting-started.php:83
 msgid "Storefront Product Pagination"
@@ -412,7 +408,7 @@ msgstr "Storefront Product Pagination"
 
 #: inc/admin/welcome-screen/sections/getting-started.php:86
 msgid "Storefront Footer Bar"
-msgstr ""
+msgstr "Storefront Footer Bar"
 
 #: inc/admin/welcome-screen/sections/intro.php:14
 msgid ""
@@ -579,7 +575,7 @@ msgstr "Vuoi aggiungere un logo? Installa il plugin %sJetpack%s! %sScopri di pi&
 
 #: inc/customizer/controls.php:124
 msgid "Header background image"
-msgstr ""
+msgstr "Immagine di sfondo dell'intestazione"
 
 #: inc/customizer/controls.php:138 inc/customizer/controls.php:195
 #: inc/customizer/controls.php:268
@@ -620,7 +616,7 @@ msgstr "Layout"
 
 #: inc/customizer/controls.php:335
 msgid "General Layout"
-msgstr ""
+msgstr "Layout Generale"
 
 #: inc/customizer/controls.php:348
 msgid "More"
@@ -727,6 +723,10 @@ msgstr "%s Commenti"
 msgid "Recent Products"
 msgstr "Prodotti Recenti"
 
+#: inc/structure/template-tags.php:103 inc/woocommerce/template-tags.php:144
+msgid "Featured Products"
+msgstr "Prodotti in Evidenza"
+
 #: inc/structure/template-tags.php:142
 msgid "Top Rated Products"
 msgstr "Prodotti Pi&ugrave; Votati"
@@ -744,6 +744,14 @@ msgid "%d item"
 msgid_plural "%d items"
 msgstr[0] "%d elemento"
 msgstr[1] "%d elementi"
+
+#: inc/woocommerce/template-tags.php:152
+msgid "On Sale Now"
+msgstr ""
+
+#: inc/woocommerce/template-tags.php:160
+msgid "New In Store"
+msgstr ""
 
 #: search.php:16
 msgid "Search Results for: %s"
@@ -793,12 +801,12 @@ msgstr[1] "%1$s pensieri su &ldquo;%2$s&rdquo;"
 #: inc/structure/post.php:115
 msgctxt "Next post"
 msgid "Next"
-msgstr ""
+msgstr "Successivo"
 
 #: inc/structure/post.php:116
 msgctxt "Previous post"
 msgid "Previous"
-msgstr ""
+msgstr "Precedente"
 
 #: inc/structure/post.php:154
 msgctxt "post date"

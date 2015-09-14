@@ -6,13 +6,14 @@
 # Artem Dubrovsky <art.dubrovsky@gmail.com>, 2015
 # Gregory Karpinsky <gregory@tiv.net>, 2015
 # Konstantin Dubovik <kodubovik@gmail.com>, 2015
+# Pavel Lysenko <voke.commodus@gmail.com>, 2015
 # Ruslan <tomaevruslan@yandex.ru>, 2015
 msgid ""
 msgstr ""
 "Project-Id-Version: Storefront\n"
 "Report-Msgid-Bugs-To: https://github.com/woothemes/storefront/issues\n"
-"POT-Creation-Date: 2015-08-11 11:08:07+00:00\n"
-"PO-Revision-Date: 2015-08-11 11:07+0000\n"
+"POT-Creation-Date: 2015-09-10 10:48:10+00:00\n"
+"PO-Revision-Date: 2015-09-10 10:48+0000\n"
 "Last-Translator: James Koster <jay@woothemes.com>\n"
 "Language-Team: Russian (Russia) (http://www.transifex.com/woothemes/storefront-1/language/ru_RU/)\n"
 "MIME-Version: 1.0\n"
@@ -30,19 +31,15 @@ msgstr "Ой! Эта страница не найдена."
 msgid ""
 "Nothing was found at this location. Try searching, or check out the links "
 "below."
-msgstr ""
+msgstr "Здесь ничего не нашлось. Попробуйте изменить запрос или воспользуйтесь ссылками ниже."
 
-#: 404.php:39 inc/structure/template-tags.php:103
-msgid "Featured Products"
-msgstr "Рекомендуемые товары"
-
-#: 404.php:50 inc/structure/template-tags.php:26
+#: 404.php:45 inc/structure/template-tags.php:26
 msgid "Product Categories"
 msgstr "Категории товаров"
 
-#: 404.php:59
+#: 404.php:54
 msgid "Popular Products"
-msgstr ""
+msgstr "Популярные товары"
 
 #: comments.php:33 comments.php:51
 msgid "Comment navigation"
@@ -88,20 +85,20 @@ msgstr "Улучшите Ваш сайт"
 msgid ""
 "Below you will find a selection of Storefront extensions that could help "
 "improve your online store."
-msgstr ""
+msgstr "Подборка расширений для темы Storefront, которые помогут улучшить интернет-магазин."
 
 #: inc/admin/welcome-screen/sections/add-ons.php:16
 msgid ""
 "Refine your shop archives and product pages with the Storefront WooCommerce "
 "Customiser"
-msgstr ""
+msgstr "Улучшите страницы продуктов и каталога с помощью Storefront WooCommerce Customiser"
 
 #: inc/admin/welcome-screen/sections/add-ons.php:18
 msgid ""
 "The Storefront WooCommerce Customiser extension gives you further control "
 "over the look and feel of your shop. Change the product archive and single "
 "layouts, toggle various shop components and more."
-msgstr ""
+msgstr "Storefront WooCommerce Customiser даёт дополнительный контроль над внешним видом вашего магазина. Меняйте список товаров и отдельные макеты, играйтесь с различными компонентами магазина и многое другое."
 
 #: inc/admin/welcome-screen/sections/add-ons.php:21
 #: inc/admin/welcome-screen/sections/add-ons.php:34
@@ -152,7 +149,7 @@ msgstr "Купить %sStorefront Designer%s сейчас"
 msgid ""
 "Optimize the checkout page at your store with the Storefront Checkout "
 "Customiser"
-msgstr ""
+msgstr "Улучшите страницу оплаты с помощью Storefront Checkout Customiser"
 
 #: inc/admin/welcome-screen/sections/add-ons.php:57
 msgid ""
@@ -166,7 +163,7 @@ msgstr ""
 #: inc/admin/welcome-screen/sections/add-ons.php:62
 #: inc/admin/welcome-screen/sections/add-ons.php:75
 msgid "Buy %sStorefront Reviews%s now"
-msgstr ""
+msgstr " Купить %sStorefront Reviews%s сейчас"
 
 #: inc/admin/welcome-screen/sections/add-ons.php:68
 msgid ""
@@ -182,37 +179,37 @@ msgstr ""
 
 #: inc/admin/welcome-screen/sections/child-themes.php:11
 msgid "Get a whole new look"
-msgstr ""
+msgstr "Совершенно новый внешний вид"
 
 #: inc/admin/welcome-screen/sections/child-themes.php:14
 msgid ""
 "Below you will find a selection of Storefront child themes that will "
 "instantly transform the look and feel of your Storefront shop."
-msgstr ""
+msgstr "Подборка дочерних тем для темы Storefront, которые изменят вид и возможности интернет-магазина."
 
 #: inc/admin/welcome-screen/sections/child-themes.php:19
 msgid "Proshop Child Theme"
-msgstr ""
+msgstr "Дочерняя тема Proshop"
 
 #: inc/admin/welcome-screen/sections/child-themes.php:20
 msgid "Proshop"
-msgstr ""
+msgstr "Proshop"
 
 #: inc/admin/welcome-screen/sections/child-themes.php:21
 msgid ""
 "Unlock the true potential of your sports clothing and equipment store with "
 "ProShop! It's metropolitan design provides an active aesthetic giving your "
 "store oodles of character."
-msgstr ""
+msgstr "Раскройте истинный потенциал вашего интернет-магазина спортивной одежды и инвентаря с темой ProShop! Её урбанистичный дизайн добавит интернет-магазину характера."
 
 #: inc/admin/welcome-screen/sections/child-themes.php:24
 #: inc/admin/welcome-screen/sections/child-themes.php:35
 msgid "Buy %s now"
-msgstr "Купи %s сейчас"
+msgstr "Купить %s сейчас"
 
 #: inc/admin/welcome-screen/sections/child-themes.php:30
 msgid "Galleria Child Theme"
-msgstr ""
+msgstr "Дочерняя тема Galleria"
 
 #: inc/admin/welcome-screen/sections/child-themes.php:31
 msgid "Galleria"
@@ -223,7 +220,7 @@ msgid ""
 "Galleria is a Storefront child theme perfect for fashion and design stores. "
 "Stylish and minimalist, it gives sites a high class look and keeps products "
 "centerstage."
-msgstr ""
+msgstr "Galleria — дочерняя тема Storefront, которая отлично подходит для интернет-магазинов одежды и украшений. Стильная и минималистичная, она ставит товар на центральное место. С ней сайты выглядят превосходно."
 
 #: inc/admin/welcome-screen/sections/child-themes.php:41
 msgid "Boutique Child Theme"
@@ -232,7 +229,7 @@ msgstr "Дочерняя тема Boutique"
 #: inc/admin/welcome-screen/sections/child-themes.php:42
 #: inc/admin/welcome-screen/sections/child-themes.php:55
 msgid "Free!"
-msgstr ""
+msgstr "Бесплатно!"
 
 #: inc/admin/welcome-screen/sections/child-themes.php:43
 msgid "Boutique"
@@ -348,7 +345,7 @@ msgstr "Добавить свой логотип"
 msgid ""
 "Install and activate %sJetpack%s to enable a custom logo option in the "
 "Customizer."
-msgstr ""
+msgstr "Установите и активируйте плагин %sJetpack%s, чтобы добавить настройки лого в Customizer."
 
 #: inc/admin/welcome-screen/sections/getting-started.php:52
 msgid "Install Jetpack"
@@ -397,17 +394,17 @@ msgstr "Просмотреть документацию &rarr;"
 
 #: inc/admin/welcome-screen/sections/getting-started.php:76
 msgid "Install free plugins"
-msgstr ""
+msgstr "Установить бесплатный плагин"
 
 #: inc/admin/welcome-screen/sections/getting-started.php:77
 msgid ""
 "There are a number of free plugins available for Storefront on the "
 "wordpress.org plugin repository."
-msgstr ""
+msgstr "На wordpress.org есть множество бесплатных плагинов для Storefront."
 
 #: inc/admin/welcome-screen/sections/getting-started.php:80
 msgid "Storefront Product Sharing"
-msgstr ""
+msgstr "Storefront Product Sharing"
 
 #: inc/admin/welcome-screen/sections/getting-started.php:83
 msgid "Storefront Product Pagination"
@@ -415,7 +412,7 @@ msgstr "Storefront Product Pagination"
 
 #: inc/admin/welcome-screen/sections/getting-started.php:86
 msgid "Storefront Footer Bar"
-msgstr ""
+msgstr "Storefront Footer Bar"
 
 #: inc/admin/welcome-screen/sections/intro.php:14
 msgid ""
@@ -582,7 +579,7 @@ msgstr "Хотите добавить логотип? Установите пл�
 
 #: inc/customizer/controls.php:124
 msgid "Header background image"
-msgstr ""
+msgstr "Фон шапки"
 
 #: inc/customizer/controls.php:138 inc/customizer/controls.php:195
 #: inc/customizer/controls.php:268
@@ -623,7 +620,7 @@ msgstr "Макет"
 
 #: inc/customizer/controls.php:335
 msgid "General Layout"
-msgstr ""
+msgstr "Главный шаблон"
 
 #: inc/customizer/controls.php:348
 msgid "More"
@@ -730,6 +727,10 @@ msgstr "% комментариев"
 msgid "Recent Products"
 msgstr "Последние товары"
 
+#: inc/structure/template-tags.php:103 inc/woocommerce/template-tags.php:144
+msgid "Featured Products"
+msgstr "Рекомендуемые товары"
+
 #: inc/structure/template-tags.php:142
 msgid "Top Rated Products"
 msgstr "Лучшие товары"
@@ -749,6 +750,14 @@ msgstr[0] "%d шт."
 msgstr[1] "%d шт."
 msgstr[2] "%d шт."
 msgstr[3] "%d шт."
+
+#: inc/woocommerce/template-tags.php:152
+msgid "On Sale Now"
+msgstr ""
+
+#: inc/woocommerce/template-tags.php:160
+msgid "New In Store"
+msgstr ""
 
 #: search.php:16
 msgid "Search Results for: %s"
@@ -800,12 +809,12 @@ msgstr[3] "%1$s мнений о &ldquo;%2$s&rdquo;"
 #: inc/structure/post.php:115
 msgctxt "Next post"
 msgid "Next"
-msgstr ""
+msgstr "Следующий"
 
 #: inc/structure/post.php:116
 msgctxt "Previous post"
 msgid "Previous"
-msgstr ""
+msgstr "Предыдущий"
 
 #: inc/structure/post.php:154
 msgctxt "post date"

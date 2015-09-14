@@ -4,7 +4,7 @@ Theme URI:    	http://www.woothemes.com/storefront
 Author:       	WooThemes
 Author URI:		http://www.woothemes.com
 Description:  	Storefront is the perfect theme for your next WooCommerce project. Designed and developed by WooThemes, it features a deep integration with our market leading WooCommerce plugin, several layout & color options to personalise your shop, multiple widget regions, a responsive design and much more. Developers will love it's lean and extensible codebase making it a joy to customise and extend. Looking for a WooCommerce theme? Look no further!
-Version:      	1.5.0
+Version:      	1.5.1
 License:      	GNU General Public License v2 or later
 License URI:  	http://www.gnu.org/licenses/gpl-2.0.html
 Text Domain:  	storefront
@@ -1001,7 +1001,6 @@ input[type="submit"],
     .button.alt:hover,
     .added_to_cart.cta:hover,
     .added_to_cart.alt:hover {
-      opacity: 0.8;
       background-color: #96588a; }
   button:hover,
   input[type="button"]:hover,
@@ -1009,7 +1008,6 @@ input[type="submit"],
   input[type="submit"]:hover,
   .button:hover,
   .added_to_cart:hover {
-    opacity: 0.8;
     color: #fff; }
   button:focus,
   input[type="button"]:focus,
@@ -1486,6 +1484,15 @@ fieldset {
     .gallery .gallery-item .gallery-caption {
       margin: 0;
       text-align: center; }
+
+/**
+ * Embeds
+ */
+embed,
+iframe,
+object,
+video {
+  max-width: 100%; }
 
 /**
  * Pagination

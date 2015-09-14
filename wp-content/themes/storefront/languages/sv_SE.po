@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Storefront\n"
 "Report-Msgid-Bugs-To: https://github.com/woothemes/storefront/issues\n"
-"POT-Creation-Date: 2015-08-11 11:08:07+00:00\n"
-"PO-Revision-Date: 2015-08-11 11:07+0000\n"
+"POT-Creation-Date: 2015-09-10 10:48:10+00:00\n"
+"PO-Revision-Date: 2015-09-10 10:48+0000\n"
 "Last-Translator: James Koster <jay@woothemes.com>\n"
 "Language-Team: Swedish (Sweden) (http://www.transifex.com/woothemes/storefront-1/language/sv_SE/)\n"
 "MIME-Version: 1.0\n"
@@ -26,19 +26,15 @@ msgstr "Ojdå! Den sidan hittades inte."
 msgid ""
 "Nothing was found at this location. Try searching, or check out the links "
 "below."
-msgstr ""
+msgstr "Hittade inget här. Pröva att söka, eller se länkarna nedan."
 
-#: 404.php:39 inc/structure/template-tags.php:103
-msgid "Featured Products"
-msgstr "Heta produkter"
-
-#: 404.php:50 inc/structure/template-tags.php:26
+#: 404.php:45 inc/structure/template-tags.php:26
 msgid "Product Categories"
 msgstr "Produktkategorier"
 
-#: 404.php:59
+#: 404.php:54
 msgid "Popular Products"
-msgstr ""
+msgstr "Populära produkter"
 
 #: comments.php:33 comments.php:51
 msgid "Comment navigation"
@@ -84,7 +80,7 @@ msgstr "Förbättra din webbplats"
 msgid ""
 "Below you will find a selection of Storefront extensions that could help "
 "improve your online store."
-msgstr ""
+msgstr "Nedan finner du ett antal tillägg till Storefront som kan göra din butik ännu lite bättre."
 
 #: inc/admin/welcome-screen/sections/add-ons.php:16
 msgid ""
@@ -148,7 +144,7 @@ msgstr "Köp %sStorefront Designer%s nu"
 msgid ""
 "Optimize the checkout page at your store with the Storefront Checkout "
 "Customiser"
-msgstr ""
+msgstr "Anpassa din butiks kassa med hjälp av Storefront Checkout Customiser"
 
 #: inc/admin/welcome-screen/sections/add-ons.php:57
 msgid ""
@@ -157,24 +153,24 @@ msgid ""
 "choosing a different layout and removing distractions to find out what works"
 " best at your store. Try different combinations of settings to A/B test and "
 "improve conversions."
-msgstr ""
+msgstr "Kassan är kanske den sida, av din butiks alla sidor, som är viktigast att få till bra. Storefront Checkout Customizer låter dig anpassa kassan genom att du kan välja olika utseenden och ta bort saker som inte behövs, för att därmed finna ut en kassa som fungerar bäst för din butik. Pröva olika inställningar, gör A/B-tester och förbättra konverteringen."
 
 #: inc/admin/welcome-screen/sections/add-ons.php:62
 #: inc/admin/welcome-screen/sections/add-ons.php:75
 msgid "Buy %sStorefront Reviews%s now"
-msgstr ""
+msgstr "Köp %sStorefront Reviews%s nu"
 
 #: inc/admin/welcome-screen/sections/add-ons.php:68
 msgid ""
 "Highlight favourable reviews throughout your store with Storefront Reviews"
-msgstr ""
+msgstr "Lyft fram säljande produktomdömen i hela din butik med hjälp av Storefront Reviews"
 
 #: inc/admin/welcome-screen/sections/add-ons.php:70
 msgid ""
 "Reading a positive review can be what converts a visitor into a customer. "
 "The Storefront Reviews extension allows you to highlight positive reviews "
 "across your site to showcase your most popular products."
-msgstr ""
+msgstr "Att läsa ett positivt omdöme kan vara det som omvandlar en besökare till kund. Tillägget Storefront Reviews låter dig lyfta fram bra omdömen överallt i din butik, så du kan visa upp din mest omtyckta produkter."
 
 #: inc/admin/welcome-screen/sections/child-themes.php:11
 msgid "Get a whole new look"
@@ -184,22 +180,22 @@ msgstr "Få ett helt nytt utseende"
 msgid ""
 "Below you will find a selection of Storefront child themes that will "
 "instantly transform the look and feel of your Storefront shop."
-msgstr ""
+msgstr "Nedan finner du ett urval av Storefront barnteman som enkelt och snabbt ger din Storefront butik ett helt nytt utseende."
 
 #: inc/admin/welcome-screen/sections/child-themes.php:19
 msgid "Proshop Child Theme"
-msgstr ""
+msgstr "Proshop barntema"
 
 #: inc/admin/welcome-screen/sections/child-themes.php:20
 msgid "Proshop"
-msgstr ""
+msgstr "Proshop"
 
 #: inc/admin/welcome-screen/sections/child-themes.php:21
 msgid ""
 "Unlock the true potential of your sports clothing and equipment store with "
 "ProShop! It's metropolitan design provides an active aesthetic giving your "
 "store oodles of character."
-msgstr ""
+msgstr "Ta fram den fulla potentialen i din sport- och träningsbutik med hjälp av ProShop! Dess storstadskänsla och sportiga design ger din butik massor av karaktär."
 
 #: inc/admin/welcome-screen/sections/child-themes.php:24
 #: inc/admin/welcome-screen/sections/child-themes.php:35
@@ -228,7 +224,7 @@ msgstr "Boutique Child Theme"
 #: inc/admin/welcome-screen/sections/child-themes.php:42
 #: inc/admin/welcome-screen/sections/child-themes.php:55
 msgid "Free!"
-msgstr ""
+msgstr "Gratis!"
 
 #: inc/admin/welcome-screen/sections/child-themes.php:43
 msgid "Boutique"
@@ -276,7 +272,7 @@ msgstr "Använda Storefront"
 msgid ""
 "We've purposely kept Storefront lean & mean so configuration is a breeze. "
 "Here are some optional theme-setup tasks:"
-msgstr ""
+msgstr "Vi har medvetet gjort Storefront slimmat och samtidigt grymt så att konfigurationen är lätt. Här är några vanliga kom igång-saker:"
 
 #: inc/admin/welcome-screen/sections/getting-started.php:19
 #: inc/admin/welcome-screen/sections/getting-started.php:25
@@ -298,25 +294,25 @@ msgstr "Konfigurera menyers placering"
 msgid ""
 "Storefront includes three menu locations for primary, secondary and handheld"
 " navigation. "
-msgstr ""
+msgstr "Storefront har tre olika menypositioner för primär, sekundär och mobil navigering."
 
 #: inc/admin/welcome-screen/sections/getting-started.php:32
 msgid ""
 "The primary navigation is perfect for your key pages like the shop and "
 "product categories. "
-msgstr ""
+msgstr "Den primära menyn lämpar sig väl för dina viktigaste sidor, såsom butik och produktkategorier."
 
 #: inc/admin/welcome-screen/sections/getting-started.php:33
 msgid ""
 "The secondary navigation is better suited to lower traffic pages such as "
 "terms and conditions."
-msgstr ""
+msgstr "Den sekundära menyn passar bättre till sidor med lite mindre trafik, som köpvillkor."
 
 #: inc/admin/welcome-screen/sections/getting-started.php:34
 msgid ""
 "The handheld navigation gives you complete control over what menu items to "
 "serve to handheld devices."
-msgstr ""
+msgstr "Den mobila menyn ger dig fullständig kontroll över vilka val du vill kunna göra tillgänglig för besökare som kommer via handhållna enheter."
 
 #: inc/admin/welcome-screen/sections/getting-started.php:36
 msgid "Configure menus"
@@ -344,7 +340,7 @@ msgstr "Lägg till din logga"
 msgid ""
 "Install and activate %sJetpack%s to enable a custom logo option in the "
 "Customizer."
-msgstr ""
+msgstr "Aktivera %sJetpack%s för att lägga till funktionen för egen logga i Anpassaren."
 
 #: inc/admin/welcome-screen/sections/getting-started.php:52
 msgid "Install Jetpack"
@@ -393,17 +389,17 @@ msgstr "Visa dokumentation &rarr;"
 
 #: inc/admin/welcome-screen/sections/getting-started.php:76
 msgid "Install free plugins"
-msgstr ""
+msgstr "Installera fria plugins"
 
 #: inc/admin/welcome-screen/sections/getting-started.php:77
 msgid ""
 "There are a number of free plugins available for Storefront on the "
 "wordpress.org plugin repository."
-msgstr ""
+msgstr "Det finns ett flertal gratis plugins tillgängliga för Storefront på wordpress.org pluginsidor."
 
 #: inc/admin/welcome-screen/sections/getting-started.php:80
 msgid "Storefront Product Sharing"
-msgstr ""
+msgstr "Storefront Product Sharing"
 
 #: inc/admin/welcome-screen/sections/getting-started.php:83
 msgid "Storefront Product Pagination"
@@ -411,7 +407,7 @@ msgstr "Storefront Product Pagination"
 
 #: inc/admin/welcome-screen/sections/getting-started.php:86
 msgid "Storefront Footer Bar"
-msgstr ""
+msgstr "Storefront Footer Bar"
 
 #: inc/admin/welcome-screen/sections/intro.php:14
 msgid ""
@@ -431,7 +427,7 @@ msgstr "Oavsett om du är butiksägare, WordPress-utvecklare, eller båda - vi h
 msgid ""
 "Looking for more Storefront goodies? Take a look at the extensions available"
 " at woothemes.com. %sGo shopping &rarr;%s"
-msgstr ""
+msgstr "Söker du mer godsaker för din Storefront? Titta gärna på tillägg som finns tillgängliga på woothemes.com. %sHandla här &arr;%s"
 
 #: inc/admin/welcome-screen/sections/who.php:14
 msgid "The Woo Team"
@@ -578,7 +574,7 @@ msgstr "Letar du efter att lägga till en logga? Installera %sJetpack%s plugin! 
 
 #: inc/customizer/controls.php:124
 msgid "Header background image"
-msgstr ""
+msgstr "Header bakgrundsbild"
 
 #: inc/customizer/controls.php:138 inc/customizer/controls.php:195
 #: inc/customizer/controls.php:268
@@ -619,7 +615,7 @@ msgstr "Layout"
 
 #: inc/customizer/controls.php:335
 msgid "General Layout"
-msgstr ""
+msgstr "Allmän layout"
 
 #: inc/customizer/controls.php:348
 msgid "More"
@@ -726,6 +722,10 @@ msgstr "% kommentarer"
 msgid "Recent Products"
 msgstr "Senaste produkter"
 
+#: inc/structure/template-tags.php:103 inc/woocommerce/template-tags.php:144
+msgid "Featured Products"
+msgstr "Heta produkter"
+
 #: inc/structure/template-tags.php:142
 msgid "Top Rated Products"
 msgstr "Produkter med högst omdömen"
@@ -743,6 +743,14 @@ msgid "%d item"
 msgid_plural "%d items"
 msgstr[0] "%d vara"
 msgstr[1] "%d varor"
+
+#: inc/woocommerce/template-tags.php:152
+msgid "On Sale Now"
+msgstr ""
+
+#: inc/woocommerce/template-tags.php:160
+msgid "New In Store"
+msgstr ""
 
 #: search.php:16
 msgid "Search Results for: %s"
@@ -792,12 +800,12 @@ msgstr[1] "%1$s tankar om &ldquo;%2$s&rdquo;"
 #: inc/structure/post.php:115
 msgctxt "Next post"
 msgid "Next"
-msgstr ""
+msgstr "Nästa"
 
 #: inc/structure/post.php:116
 msgctxt "Previous post"
 msgid "Previous"
-msgstr ""
+msgstr "Föregående"
 
 #: inc/structure/post.php:154
 msgctxt "post date"

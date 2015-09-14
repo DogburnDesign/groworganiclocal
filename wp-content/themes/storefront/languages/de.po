@@ -1,17 +1,19 @@
 # Copyright (C) 2015 WooThemes
 # This file is distributed under the GNU General Public License v2 or later.
 # Translators:
+# Emanuel Malacarne <emanuel.malacarne@gmail.com>, 2015
 # lkoenigsberger <ludwig@konetserv.com>, 2014-2015
 # maquis, 2015
 # Roman Petersen <roman.petersen@googlemail.com>, 2015
+# Sebastian Haselbeck <tarantino.info@googlemail.com>, 2015
 # Stefan Meier <hello@stefanmeier.net>, 2014
 # Urs Mettler <info@indyaner.ch>, 2015
 msgid ""
 msgstr ""
 "Project-Id-Version: Storefront\n"
 "Report-Msgid-Bugs-To: https://github.com/woothemes/storefront/issues\n"
-"POT-Creation-Date: 2015-08-11 11:08:07+00:00\n"
-"PO-Revision-Date: 2015-08-11 11:07+0000\n"
+"POT-Creation-Date: 2015-09-10 10:48:10+00:00\n"
+"PO-Revision-Date: 2015-09-10 10:48+0000\n"
 "Last-Translator: James Koster <jay@woothemes.com>\n"
 "Language-Team: German (http://www.transifex.com/woothemes/storefront-1/language/de/)\n"
 "MIME-Version: 1.0\n"
@@ -29,19 +31,15 @@ msgstr "Ups! Diese Seite wurde nicht gefunden."
 msgid ""
 "Nothing was found at this location. Try searching, or check out the links "
 "below."
-msgstr ""
+msgstr "An dieser Stelle wurde nichts gefunden. Versuche zu suchen, oder probiere unten stehende Links."
 
-#: 404.php:39 inc/structure/template-tags.php:103
-msgid "Featured Products"
-msgstr "Featured Produkte"
-
-#: 404.php:50 inc/structure/template-tags.php:26
+#: 404.php:45 inc/structure/template-tags.php:26
 msgid "Product Categories"
 msgstr "Produktkategorien"
 
-#: 404.php:59
+#: 404.php:54
 msgid "Popular Products"
-msgstr ""
+msgstr "Beliebte Produkte"
 
 #: comments.php:33 comments.php:51
 msgid "Comment navigation"
@@ -87,20 +85,20 @@ msgstr "Erweitere deine Seite"
 msgid ""
 "Below you will find a selection of Storefront extensions that could help "
 "improve your online store."
-msgstr ""
+msgstr "Unten finden Sie eine Auswahl von Storefront Erweiterungen die helfen Ihren Onlineshop zu verbessern."
 
 #: inc/admin/welcome-screen/sections/add-ons.php:16
 msgid ""
 "Refine your shop archives and product pages with the Storefront WooCommerce "
 "Customiser"
-msgstr ""
+msgstr "Stimmen Sie ihre Shop Archivse und Produktseiten genauer ab mit dem Storefront WooCommerce Customiser"
 
 #: inc/admin/welcome-screen/sections/add-ons.php:18
 msgid ""
 "The Storefront WooCommerce Customiser extension gives you further control "
 "over the look and feel of your shop. Change the product archive and single "
 "layouts, toggle various shop components and more."
-msgstr ""
+msgstr "Die Storefront WooCommerce Customiser Erweiterung gibt Ihnen weitere Kontrolle über Aussehen und Verhalten Ihres Shops. Verändern Sie die Produktarchive und Einzelansichten, stellen Sie diverse Shop Komponenten um und vieles mehr."
 
 #: inc/admin/welcome-screen/sections/add-ons.php:21
 #: inc/admin/welcome-screen/sections/add-ons.php:34
@@ -119,14 +117,14 @@ msgstr "%sStorefront WooCommerce Customiser%s jetzt kaufen"
 
 #: inc/admin/welcome-screen/sections/add-ons.php:29
 msgid "Highlight a product of your choosing with the Storefront Product Hero"
-msgstr ""
+msgstr "Heben Sie ein Produkt Ihrer Wahl hervor mit dem Storefront Product Hero"
 
 #: inc/admin/welcome-screen/sections/add-ons.php:31
 msgid ""
 "The Storefront Product Hero extension adds a parallax hero component to your"
 " homepage highlighting a specific product at your store. Use the shortcode "
 "to add attractive hero components to posts, pages or widgets."
-msgstr ""
+msgstr "Die Storefront Product Hero Erweiterung fügt Parallax Hero Komponenten zu Ihrer Startseite hinzu um ein spezielles Produkt Ihres Shops zu betonen. Benutzen Sie den Shortcode um attraktive Hero Komponenten zu Beiträgen, Seiten oder Widgets hinzuzufügen."
 
 #: inc/admin/welcome-screen/sections/add-ons.php:36
 msgid "Buy %sStorefront Product Hero%s now"
@@ -151,7 +149,7 @@ msgstr "%sStorefront Designer%s jetzt kaufen"
 msgid ""
 "Optimize the checkout page at your store with the Storefront Checkout "
 "Customiser"
-msgstr ""
+msgstr "Optimiere die Checkout Seite deines Shops mit dem Storefront Checkout Customiser"
 
 #: inc/admin/welcome-screen/sections/add-ons.php:57
 msgid ""
@@ -165,7 +163,7 @@ msgstr ""
 #: inc/admin/welcome-screen/sections/add-ons.php:62
 #: inc/admin/welcome-screen/sections/add-ons.php:75
 msgid "Buy %sStorefront Reviews%s now"
-msgstr ""
+msgstr "Kaufe jetzt §%Storefront Reviews%"
 
 #: inc/admin/welcome-screen/sections/add-ons.php:68
 msgid ""
@@ -181,7 +179,7 @@ msgstr ""
 
 #: inc/admin/welcome-screen/sections/child-themes.php:11
 msgid "Get a whole new look"
-msgstr ""
+msgstr "Verschaffen Sie sich einen völlig neuen Look"
 
 #: inc/admin/welcome-screen/sections/child-themes.php:14
 msgid ""
@@ -191,11 +189,11 @@ msgstr ""
 
 #: inc/admin/welcome-screen/sections/child-themes.php:19
 msgid "Proshop Child Theme"
-msgstr ""
+msgstr "Proshop Child Theme"
 
 #: inc/admin/welcome-screen/sections/child-themes.php:20
 msgid "Proshop"
-msgstr ""
+msgstr "Proshop"
 
 #: inc/admin/welcome-screen/sections/child-themes.php:21
 msgid ""
@@ -207,15 +205,15 @@ msgstr ""
 #: inc/admin/welcome-screen/sections/child-themes.php:24
 #: inc/admin/welcome-screen/sections/child-themes.php:35
 msgid "Buy %s now"
-msgstr ""
+msgstr "Kaufen Sie jetzt %s"
 
 #: inc/admin/welcome-screen/sections/child-themes.php:30
 msgid "Galleria Child Theme"
-msgstr ""
+msgstr "Galleria Child Theme"
 
 #: inc/admin/welcome-screen/sections/child-themes.php:31
 msgid "Galleria"
-msgstr ""
+msgstr "Galleria"
 
 #: inc/admin/welcome-screen/sections/child-themes.php:32
 msgid ""
@@ -231,7 +229,7 @@ msgstr "Boutique Child Theme"
 #: inc/admin/welcome-screen/sections/child-themes.php:42
 #: inc/admin/welcome-screen/sections/child-themes.php:55
 msgid "Free!"
-msgstr ""
+msgstr "Kostenlos!"
 
 #: inc/admin/welcome-screen/sections/child-themes.php:43
 msgid "Boutique"
@@ -255,11 +253,11 @@ msgstr "Mehr über %sabout Boutique%s lesen &rarr;"
 
 #: inc/admin/welcome-screen/sections/child-themes.php:54
 msgid "Deli Child Theme"
-msgstr ""
+msgstr "Deli Child Theme"
 
 #: inc/admin/welcome-screen/sections/child-themes.php:56
 msgid "Deli"
-msgstr ""
+msgstr "Deli"
 
 #: inc/admin/welcome-screen/sections/child-themes.php:57
 msgid ""
@@ -378,7 +376,7 @@ msgstr "Einmal eingerichtet, kannst du die Komponenten der Homepage mit dem %sHo
 
 #: inc/admin/welcome-screen/sections/getting-started.php:65
 msgid "Install Homepage Control"
-msgstr ""
+msgstr "Homepage Control installieren"
 
 #: inc/admin/welcome-screen/sections/getting-started.php:70
 msgid "View documentation"
@@ -396,7 +394,7 @@ msgstr ""
 
 #: inc/admin/welcome-screen/sections/getting-started.php:76
 msgid "Install free plugins"
-msgstr ""
+msgstr "Kostenlose Plugins installieren"
 
 #: inc/admin/welcome-screen/sections/getting-started.php:77
 msgid ""
@@ -565,15 +563,15 @@ msgstr ""
 #: inc/customizer/controls.php:75 inc/customizer/controls.php:154
 #: inc/customizer/controls.php:227 inc/customizer/controls.php:283
 msgid "Text color"
-msgstr ""
+msgstr "Textfarbe"
 
 #: inc/customizer/controls.php:90
 msgid "Link / accent color"
-msgstr ""
+msgstr "Link Farbe"
 
 #: inc/customizer/controls.php:103
 msgid "Logo"
-msgstr ""
+msgstr "Logo"
 
 #: inc/customizer/controls.php:110
 msgid "Looking to add a logo? Install the %sJetpack%s plugin! %sRead more%s."
@@ -586,11 +584,11 @@ msgstr ""
 #: inc/customizer/controls.php:138 inc/customizer/controls.php:195
 #: inc/customizer/controls.php:268
 msgid "Background color"
-msgstr ""
+msgstr "Hintergrundfarbe"
 
 #: inc/customizer/controls.php:170 inc/customizer/controls.php:243
 msgid "Link color"
-msgstr ""
+msgstr "Link Farbe"
 
 #: inc/customizer/controls.php:180
 msgid "Footer"
@@ -622,7 +620,7 @@ msgstr "Layout"
 
 #: inc/customizer/controls.php:335
 msgid "General Layout"
-msgstr ""
+msgstr "Allgemeines Layout"
 
 #: inc/customizer/controls.php:348
 msgid "More"
@@ -729,6 +727,10 @@ msgstr "% Kommentare"
 msgid "Recent Products"
 msgstr "Neueste Produkte"
 
+#: inc/structure/template-tags.php:103 inc/woocommerce/template-tags.php:144
+msgid "Featured Products"
+msgstr "Featured Produkte"
+
 #: inc/structure/template-tags.php:142
 msgid "Top Rated Products"
 msgstr "Bestbewertete Produkte"
@@ -746,6 +748,14 @@ msgid "%d item"
 msgid_plural "%d items"
 msgstr[0] "%d Artikel"
 msgstr[1] "%d Artikel"
+
+#: inc/woocommerce/template-tags.php:152
+msgid "On Sale Now"
+msgstr ""
+
+#: inc/woocommerce/template-tags.php:160
+msgid "New In Store"
+msgstr ""
 
 #: search.php:16
 msgid "Search Results for: %s"
@@ -789,18 +799,18 @@ msgstr "Startseite"
 msgctxt "comments title"
 msgid "One thought on &ldquo;%2$s&rdquo;"
 msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Ein Gedanke zu &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s Gedanken zu &ldquo;%2$s&rdquo;"
 
 #: inc/structure/post.php:115
 msgctxt "Next post"
 msgid "Next"
-msgstr ""
+msgstr "Nächster"
 
 #: inc/structure/post.php:116
 msgctxt "Previous post"
 msgid "Previous"
-msgstr ""
+msgstr "Vorheriger"
 
 #: inc/structure/post.php:154
 msgctxt "post date"

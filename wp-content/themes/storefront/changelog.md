@@ -1,5 +1,15 @@
 # Storefront Changelog
 
+### *2015.09.10* - 1.5.1
+* **Fix** - Occasional text wrapping on product sorting dropdown.
+* **Fix** - Double taps no longer required to click buttons in iOS browsers.
+* **Fix** - Fixed the landing page layout in WordPress 4.3+
+* **Fix** - Header cart now compatible with Currency Converter extension.
+* **Tweak** - Embedded objects (videos etc) width will no longer exceed the width of their containing element.
+* **Tweak** - Improved the ligibility of the active swatch when using the Variation Swatches extension.
+* **Dev** - Improved how RTL stylesheets are enqueued.
+* **Dev** - The default layout is now  filterable via `storefront_default_layout`.
+
 ### *2015.08.11* - 1.5.0
 * **New** - rtl support.
 * **New** - Integration with WooCommerce Deposits.

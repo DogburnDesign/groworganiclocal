@@ -1,0 +1,818 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Membership\n"
+"POT-Creation-Date: 2015-06-12 12:49+0200\n"
+"PO-Revision-Date: 2015-06-12 12:49+0200\n"
+"Last-Translator: \n"
+"Language-Team: RightPress <info@rightpress.net>\n"
+"Language: en_EN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-KeywordsList: __;_e;_c;__ngettext:1,2;_n:1,2;_nc:1,2;"
+"__ngettext_noop:1,2;_n_noop:1,2;_x:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../includes/classes/emails/woocommerce-membership-email-customer-membership-expiration-reminder.class.php:29
+#: ../includes/classes/emails/woocommerce-membership-email-customer-membership-expiration-reminder.class.php:32
+msgid "Membership expiration reminder"
+msgstr ""
+
+#: ../includes/classes/emails/woocommerce-membership-email-customer-membership-expiration-reminder.class.php:30
+msgid ""
+"Membership expiration reminder emails are sent to customers at predefined "
+"intervals before their membership expires."
+msgstr ""
+
+#: ../includes/classes/emails/woocommerce-membership-email-customer-membership-expiration-reminder.class.php:33
+msgid "Your {site_title} membership expires soon"
+msgstr ""
+
+#: ../includes/classes/emails/woocommerce-membership-email-customer-membership-expired.class.php:29
+msgid "Membership expired"
+msgstr ""
+
+#: ../includes/classes/emails/woocommerce-membership-email-customer-membership-expired.class.php:30
+msgid ""
+"Membership expired emails are sent to customers when memberships expire (if "
+"they are configured to expire)."
+msgstr ""
+
+#: ../includes/classes/emails/woocommerce-membership-email-customer-membership-expired.class.php:32
+msgid "Your membership expired"
+msgstr ""
+
+#: ../includes/classes/emails/woocommerce-membership-email-customer-membership-expired.class.php:33
+msgid "Your {site_title} membership expired"
+msgstr ""
+
+#: ../includes/classes/emails/woocommerce-membership-email-customer-membership-granted.class.php:29
+#: ../includes/classes/emails/woocommerce-membership-email-customer-membership-granted.class.php:32
+msgid "Membership granted"
+msgstr ""
+
+#: ../includes/classes/emails/woocommerce-membership-email-customer-membership-granted.class.php:30
+msgid ""
+"Membership granted emails are sent to customers when their memberships are "
+"activated."
+msgstr ""
+
+#: ../includes/classes/emails/woocommerce-membership-email-customer-membership-granted.class.php:33
+msgid "Your {site_title} membership has been granted"
+msgstr ""
+
+#: ../includes/classes/emails/woocommerce-membership-email.class.php:143
+msgid "Enable/Disable"
+msgstr ""
+
+#: ../includes/classes/emails/woocommerce-membership-email.class.php:145
+msgid "Enable this email notification"
+msgstr ""
+
+#: ../includes/classes/emails/woocommerce-membership-email.class.php:149
+msgid "Send to admin?"
+msgstr ""
+
+#: ../includes/classes/emails/woocommerce-membership-email.class.php:151
+msgid "Send copy of this email to admin"
+msgstr ""
+
+#: ../includes/classes/emails/woocommerce-membership-email.class.php:155
+msgid "Subject"
+msgstr ""
+
+#: ../includes/classes/emails/woocommerce-membership-email.class.php:157
+#: ../includes/classes/emails/woocommerce-membership-email.class.php:164
+#, php-format
+msgid "Defaults to <code>%s</code>"
+msgstr ""
+
+#: ../includes/classes/emails/woocommerce-membership-email.class.php:162
+msgid "Email heading"
+msgstr ""
+
+#: ../includes/classes/emails/woocommerce-membership-email.class.php:169
+msgid "Email type"
+msgstr ""
+
+#: ../includes/classes/emails/woocommerce-membership-email.class.php:171
+msgid "Choose which format of email to send."
+msgstr ""
+
+#: ../includes/classes/emails/woocommerce-membership-email.class.php:175
+msgid "Plain text"
+msgstr ""
+
+#: ../includes/classes/emails/woocommerce-membership-email.class.php:176
+msgid "HTML"
+msgstr ""
+
+#: ../includes/classes/emails/woocommerce-membership-email.class.php:177
+msgid "Multipart"
+msgstr ""
+
+#: ../includes/classes/woocommerce-membership-order.class.php:247
+msgid "My Memberships"
+msgstr ""
+
+#: ../includes/classes/woocommerce-membership-plan.class.php:100
+#: ../includes/views/backend/product/simple-product-meta.php:16
+msgid "Membership Plans"
+msgstr ""
+
+#: ../includes/classes/woocommerce-membership-plan.class.php:101
+msgid "Membership Plan"
+msgstr ""
+
+#: ../includes/classes/woocommerce-membership-plan.class.php:102
+msgid "Add Plan"
+msgstr ""
+
+#: ../includes/classes/woocommerce-membership-plan.class.php:103
+msgid "Add Membership Plan"
+msgstr ""
+
+#: ../includes/classes/woocommerce-membership-plan.class.php:104
+msgid "Edit Plan"
+msgstr ""
+
+#: ../includes/classes/woocommerce-membership-plan.class.php:105
+msgid "New Membership Plan"
+msgstr ""
+
+#: ../includes/classes/woocommerce-membership-plan.class.php:106
+msgid " Plans"
+msgstr ""
+
+#: ../includes/classes/woocommerce-membership-plan.class.php:107
+msgid "View Membership Plan"
+msgstr ""
+
+#: ../includes/classes/woocommerce-membership-plan.class.php:108
+msgid "Search Plans"
+msgstr ""
+
+#: ../includes/classes/woocommerce-membership-plan.class.php:109
+msgid "No Plans Found"
+msgstr ""
+
+#: ../includes/classes/woocommerce-membership-plan.class.php:110
+msgid "No Plans Found In Trash"
+msgstr ""
+
+#: ../includes/classes/woocommerce-membership-plan.class.php:112
+#: ../includes/classes/woocommerce-membership-product.class.php:193
+#: ../includes/classes/woocommerce-membership-product.class.php:239
+#: ../includes/classes/woocommerce-membership-product.class.php:431
+msgid "Membership"
+msgstr ""
+
+#: ../includes/classes/woocommerce-membership-plan.class.php:118
+msgid "WooCommerce Membership Plans"
+msgstr ""
+
+#: ../includes/classes/woocommerce-membership-plan.class.php:136
+#: ../includes/classes/woocommerce-membership-plan.class.php:138
+#: ../includes/classes/woocommerce-membership-plan.class.php:139
+#: ../includes/classes/woocommerce-membership-plan.class.php:815
+msgid "Status"
+msgstr ""
+
+#: ../includes/classes/woocommerce-membership-plan.class.php:171
+msgid "Enter plan name here"
+msgstr ""
+
+#: ../includes/classes/woocommerce-membership-plan.class.php:287
+#: ../includes/classes/woocommerce-membership-user.class.php:346
+#: ../includes/views/backend/plan/members.php:54
+#: ../woocommerce-membership.php:699
+msgid "Never"
+msgstr ""
+
+#: ../includes/classes/woocommerce-membership-plan.class.php:305
+msgid "Membership Plan Details"
+msgstr ""
+
+#: ../includes/classes/woocommerce-membership-plan.class.php:315
+msgid "Related Products"
+msgstr ""
+
+#: ../includes/classes/woocommerce-membership-plan.class.php:325
+#: ../includes/classes/woocommerce-membership-plan.class.php:817
+msgid "Members"
+msgstr ""
+
+#: ../includes/classes/woocommerce-membership-plan.class.php:335
+#: ../includes/classes/woocommerce-membership-plan.class.php:818
+msgid "Linked Plans"
+msgstr ""
+
+#: ../includes/classes/woocommerce-membership-plan.class.php:345
+msgid "Plan Actions"
+msgstr ""
+
+#: ../includes/classes/woocommerce-membership-plan.class.php:359
+msgid "Grant Access Manually"
+msgstr ""
+
+#: ../includes/classes/woocommerce-membership-plan.class.php:451
+#, php-format
+msgid "Showing search results (%s) "
+msgstr ""
+
+#: ../includes/classes/woocommerce-membership-plan.class.php:757
+msgid "All statuses"
+msgstr ""
+
+#: ../includes/classes/woocommerce-membership-plan.class.php:813
+msgid "Name"
+msgstr ""
+
+#: ../includes/classes/woocommerce-membership-plan.class.php:814
+msgid "Key"
+msgstr ""
+
+#: ../includes/classes/woocommerce-membership-plan.class.php:816
+msgid "Products"
+msgstr ""
+
+#: ../includes/classes/woocommerce-membership-plan.class.php:1223
+msgid "enabled"
+msgstr ""
+
+#: ../includes/classes/woocommerce-membership-plan.class.php:1226
+msgid "disabled"
+msgstr ""
+
+#: ../includes/classes/woocommerce-membership-plan.class.php:1242
+msgid "Save Plan"
+msgstr ""
+
+#: ../includes/classes/woocommerce-membership-plan.class.php:1251
+msgid "Enable Plan"
+msgstr ""
+
+#: ../includes/classes/woocommerce-membership-plan.class.php:1256
+msgid "Disable Plan"
+msgstr ""
+
+#: ../includes/classes/woocommerce-membership-plan.class.php:1300
+msgid "Simple Product"
+msgstr ""
+
+#: ../includes/classes/woocommerce-membership-plan.class.php:1328
+msgid "Product Variation"
+msgstr ""
+
+#: ../includes/classes/woocommerce-membership-plan.class.php:1478
+msgid "No users found"
+msgstr ""
+
+#: ../includes/classes/woocommerce-membership-plan.class.php:1483
+msgid "No search query was sent"
+msgstr ""
+
+#: ../includes/classes/woocommerce-membership-post.class.php:81
+msgid "Restrict Access"
+msgstr ""
+
+#: ../includes/classes/woocommerce-membership-post.class.php:889
+msgid " — expires on: "
+msgstr ""
+
+#: ../includes/classes/woocommerce-membership-post.class.php:1001
+msgid " days."
+msgstr ""
+
+#: ../includes/classes/woocommerce-membership-post.class.php:1005
+msgid " hours."
+msgstr ""
+
+#: ../includes/classes/woocommerce-membership-post.class.php:1009
+msgid " minutes."
+msgstr ""
+
+#: ../includes/classes/woocommerce-membership-post.class.php:1012
+msgid " plan expires in "
+msgstr ""
+
+#: ../includes/classes/woocommerce-membership-post.class.php:1047
+#: ../includes/classes/woocommerce-membership-post.class.php:1050
+msgid "Members-only"
+msgstr ""
+
+#: ../includes/classes/woocommerce-membership-post.class.php:1050
+msgid "Members-Only Content"
+msgstr ""
+
+#: ../includes/classes/woocommerce-membership-post.class.php:1075
+msgid "Access is restricted to members only"
+msgstr ""
+
+#: ../includes/classes/woocommerce-membership-post.class.php:1078
+msgid "Access is restricted to members with specific plans only"
+msgstr ""
+
+#: ../includes/classes/woocommerce-membership-post.class.php:1081
+msgid "Access is restricted to non-members only"
+msgstr ""
+
+#: ../includes/classes/woocommerce-membership-post.class.php:1084
+msgid "Access is restricted to users without specific membership plans only"
+msgstr ""
+
+#: ../includes/classes/woocommerce-membership-product.class.php:194
+msgid "This product grants access to one or more membership plans."
+msgstr ""
+
+#: ../includes/classes/woocommerce-membership-product.class.php:239
+msgid "This variation grants access to one or more membership plans."
+msgstr ""
+
+#: ../includes/classes/woocommerce-membership-product.class.php:431
+msgid "Membership Product"
+msgstr ""
+
+#: ../includes/classes/woocommerce-membership-product.class.php:455
+msgid "This product is a membership"
+msgstr ""
+
+#: ../includes/classes/woocommerce-membership-product.class.php:455
+msgid "Contains at least one membership"
+msgstr ""
+
+#: ../includes/classes/woocommerce-membership-user.class.php:120
+msgid "Unknown"
+msgstr ""
+
+#: ../includes/classes/woocommerce-membership-user.class.php:302
+msgid "User ID"
+msgstr ""
+
+#: ../includes/classes/woocommerce-membership-user.class.php:303
+msgid "Username"
+msgstr ""
+
+#: ../includes/classes/woocommerce-membership-user.class.php:304
+msgid "Full Name"
+msgstr ""
+
+#: ../includes/classes/woocommerce-membership-user.class.php:305
+msgid "Email"
+msgstr ""
+
+#: ../includes/classes/woocommerce-membership-user.class.php:306
+#: ../includes/views/backend/plan/members.php:21
+msgid "Member Since"
+msgstr ""
+
+#: ../includes/classes/woocommerce-membership-user.class.php:307
+#: ../includes/views/backend/plan/members.php:22
+msgid "Membership Expires"
+msgstr ""
+
+#: ../includes/rpwcm-plugin-settings.inc.php:13
+msgid "General"
+msgstr ""
+
+#: ../includes/rpwcm-plugin-settings.inc.php:17
+msgid "General Restriction Settings"
+msgstr ""
+
+#: ../includes/rpwcm-plugin-settings.inc.php:20
+msgid "Redirect URL for restricted posts"
+msgstr ""
+
+#: ../includes/rpwcm-plugin-settings.inc.php:27
+msgid "<p>Leave blank to show regular 404 page.</p>"
+msgstr ""
+
+#: ../includes/rpwcm-plugin-settings.inc.php:32
+msgid "Product Restriction Settings"
+msgstr ""
+
+#: ../includes/rpwcm-plugin-settings.inc.php:35
+msgid "Product access restriction method"
+msgstr ""
+
+#: ../includes/rpwcm-plugin-settings.inc.php:43
+msgid "Restrict access completely"
+msgstr ""
+
+#: ../includes/rpwcm-plugin-settings.inc.php:44
+msgid "Make product not purchasable"
+msgstr ""
+
+#: ../includes/rpwcm-plugin-settings.inc.php:46
+msgid ""
+"<p>How to restrict access to products. If first option is selected, products "
+"will be treated like any other posts or pages.</p>"
+msgstr ""
+
+#: ../includes/rpwcm-plugin-settings.inc.php:51
+msgid "Membership Expiration Reminders"
+msgstr ""
+
+#: ../includes/rpwcm-plugin-settings.inc.php:54
+msgid "Enable membership expiration reminders"
+msgstr ""
+
+#: ../includes/rpwcm-plugin-settings.inc.php:61
+#: ../includes/rpwcm-plugin-settings.inc.php:72
+msgid "<p></p>"
+msgstr ""
+
+#: ../includes/rpwcm-plugin-settings.inc.php:64
+msgid "Send reminders before"
+msgstr ""
+
+#: ../includes/rpwcm-plugin-settings.inc.php:65
+msgid "day(s) (separate values by comma)"
+msgstr ""
+
+#: ../includes/rpwcm-plugin-settings.inc.php:79
+msgid "URL Restriction"
+msgstr ""
+
+#: ../includes/rpwcm-plugin-settings.inc.php:83
+msgid "Restrict Access By URL"
+msgstr ""
+
+#: ../includes/views/backend/admin/url-mismatch-notification.php:17
+msgid "WooCommerce Membership URL mismatch"
+msgstr ""
+
+#: ../includes/views/backend/admin/url-mismatch-notification.php:20
+msgid ""
+"Your website URL has recently been changed. Customer membership emails have "
+"been disabled to prevent duplicate emails originating from development or "
+"staging servers."
+msgstr ""
+
+#: ../includes/views/backend/admin/url-mismatch-notification.php:21
+msgid ""
+"If you have moved this website permanently and would like to re-enable these "
+"features, select appropriate action below."
+msgstr ""
+
+#: ../includes/views/backend/admin/url-mismatch-notification.php:24
+msgid "Hide this warning"
+msgstr ""
+
+#: ../includes/views/backend/admin/url-mismatch-notification.php:25
+msgid "Make current URL primary"
+msgstr ""
+
+#: ../includes/views/backend/plan/actions.php:25
+msgid "Delete Permanently"
+msgstr ""
+
+#: ../includes/views/backend/plan/actions.php:25
+msgid "Move to Trash"
+msgstr ""
+
+#: ../includes/views/backend/plan/actions.php:29
+msgid "Submit"
+msgstr ""
+
+#: ../includes/views/backend/plan/details.php:22
+#: ../woocommerce-membership.php:735
+msgid "name not set"
+msgstr ""
+
+#: ../includes/views/backend/plan/details.php:29
+msgid "Key:"
+msgstr ""
+
+#: ../includes/views/backend/plan/details.php:29
+#: ../woocommerce-membership.php:736
+msgid "key not set"
+msgstr ""
+
+#: ../includes/views/backend/plan/grant-access.php:20
+msgid "Grant Access"
+msgstr ""
+
+#: ../includes/views/backend/plan/linked-plans.php:19
+msgid "Plan Name"
+msgstr ""
+
+#: ../includes/views/backend/plan/linked-plans.php:20
+msgid "Plan Key"
+msgstr ""
+
+#: ../includes/views/backend/plan/linked-plans.php:21
+msgid "Grant Access After"
+msgstr ""
+
+#: ../includes/views/backend/plan/linked-plans.php:35
+msgid "0"
+msgstr ""
+
+#: ../includes/views/backend/plan/linked-plans.php:42
+msgid "Remove Linked Plan"
+msgstr ""
+
+#: ../includes/views/backend/plan/linked-plans.php:52
+msgid "No linked plans found."
+msgstr ""
+
+#: ../includes/views/backend/plan/linked-plans.php:68
+msgid "Link Plan"
+msgstr ""
+
+#: ../includes/views/backend/plan/members.php:19
+msgid "Member Name"
+msgstr ""
+
+#: ../includes/views/backend/plan/members.php:20
+msgid "Email Address"
+msgstr ""
+
+#: ../includes/views/backend/plan/members.php:48
+msgid "Change expiration date"
+msgstr ""
+
+#: ../includes/views/backend/plan/members.php:59
+msgid "Remove Member Manually"
+msgstr ""
+
+#: ../includes/views/backend/plan/members.php:70
+msgid "No members found."
+msgstr ""
+
+#: ../includes/views/backend/plan/members.php:81
+msgid "Export to CSV"
+msgstr ""
+
+#: ../includes/views/backend/plan/members.php:88
+msgid "Member Search"
+msgstr ""
+
+#: ../includes/views/backend/plan/products.php:19
+msgid "Product Name"
+msgstr ""
+
+#: ../includes/views/backend/plan/products.php:20
+msgid "Type"
+msgstr ""
+
+#: ../includes/views/backend/plan/products.php:21
+msgid "Current Price"
+msgstr ""
+
+#: ../includes/views/backend/plan/products.php:22
+msgid "Expiration Term"
+msgstr ""
+
+#: ../includes/views/backend/plan/products.php:59
+msgid "None"
+msgstr ""
+
+#: ../includes/views/backend/plan/products.php:71
+msgid "No related products found."
+msgstr ""
+
+#: ../includes/views/backend/post/bulk-edit.php:3
+#: ../includes/views/backend/post/quick-edit.php:3
+msgid "Member Access"
+msgstr ""
+
+#: ../includes/views/backend/post/bulk-edit.php:6
+#: ../includes/views/backend/post/quick-edit.php:6
+msgid "Access Restriction Method"
+msgstr ""
+
+#: ../includes/views/backend/post/bulk-edit.php:8
+#: ../includes/views/backend/post/bulk-edit.php:9
+msgid "No Change"
+msgstr ""
+
+#: ../includes/views/backend/post/bulk-edit.php:11
+#: ../includes/views/backend/post/bulk-edit.php:12
+#: ../includes/views/backend/post/quick-edit.php:8
+#: ../includes/views/backend/post/quick-edit.php:9
+#: ../includes/views/backend/post/restrict-access.php:17
+#: ../includes/views/backend/post/restrict-access.php:18
+msgid "No Restriction"
+msgstr ""
+
+#: ../includes/views/backend/post/bulk-edit.php:14
+#: ../includes/views/backend/post/quick-edit.php:11
+#: ../includes/views/backend/post/restrict-access.php:20
+msgid "Members Only"
+msgstr ""
+
+#: ../includes/views/backend/post/bulk-edit.php:15
+#: ../includes/views/backend/post/quick-edit.php:12
+#: ../includes/views/backend/post/restrict-access.php:21
+#: ../includes/views/backend/settings/url_restriction_templates.php:41
+msgid "All Members"
+msgstr ""
+
+#: ../includes/views/backend/post/bulk-edit.php:16
+#: ../includes/views/backend/post/quick-edit.php:13
+#: ../includes/views/backend/post/restrict-access.php:22
+#: ../includes/views/backend/settings/url_restriction_templates.php:42
+msgid "Members With Specific Plans"
+msgstr ""
+
+#: ../includes/views/backend/post/bulk-edit.php:18
+#: ../includes/views/backend/post/quick-edit.php:15
+#: ../includes/views/backend/post/restrict-access.php:24
+msgid "Non-Members Only"
+msgstr ""
+
+#: ../includes/views/backend/post/bulk-edit.php:19
+#: ../includes/views/backend/post/quick-edit.php:16
+#: ../includes/views/backend/post/restrict-access.php:25
+#: ../includes/views/backend/settings/url_restriction_templates.php:45
+msgid "All Non-Members"
+msgstr ""
+
+#: ../includes/views/backend/post/bulk-edit.php:20
+#: ../includes/views/backend/post/quick-edit.php:17
+#: ../includes/views/backend/post/restrict-access.php:26
+#: ../includes/views/backend/settings/url_restriction_templates.php:46
+msgid "Users Without Specific Plans"
+msgstr ""
+
+#: ../includes/views/backend/post/bulk-edit.php:26
+#: ../includes/views/backend/post/quick-edit.php:23
+msgid "Add Membership Plans To Access Control Field"
+msgstr ""
+
+#: ../includes/views/backend/post/bulk-edit.php:31
+#: ../includes/views/backend/post/quick-edit.php:28
+msgid "Remove Membership Plans From Access Control Field"
+msgstr ""
+
+#: ../includes/views/backend/post/restrict-access.php:35
+#, php-format
+msgid "Control your membership plans %shere%s."
+msgstr ""
+
+#: ../includes/views/backend/product/simple-product-meta.php:25
+#: ../includes/views/backend/product/variation-meta.php:20
+msgid "Membership Expires In"
+msgstr ""
+
+#: ../includes/views/backend/product/simple-product-meta.php:26
+#: ../includes/views/backend/product/variation-meta.php:21
+msgid "will not expire"
+msgstr ""
+
+#: ../includes/views/backend/product/variation-meta.php:16
+msgid "Membership Plans:"
+msgstr ""
+
+#: ../includes/views/backend/settings/url_restriction.php:17
+#: ../includes/views/backend/settings/url_restriction.php:18
+msgid "Add Rule"
+msgstr ""
+
+#: ../includes/views/backend/settings/url_restriction_templates.php:18
+msgid "No URL restriction rules configured."
+msgstr ""
+
+#: ../includes/views/backend/settings/url_restriction_templates.php:34
+msgid "Full or partial URL (wildcards * supported)"
+msgstr ""
+
+#: ../includes/views/backend/settings/url_restriction_templates.php:40
+msgid "Allow Access to Members Only"
+msgstr ""
+
+#: ../includes/views/backend/settings/url_restriction_templates.php:44
+msgid "Allow Access to Non-Members Only"
+msgstr ""
+
+#: ../templates/emails/customer-membership-expiration-reminder.php:16
+#: ../templates/emails/plain/customer-membership-expiration-reminder.php:14
+#, php-format
+msgid "Your membership %s on %s expires in %s days."
+msgstr ""
+
+#: ../templates/emails/customer-membership-expired.php:16
+#: ../templates/emails/plain/customer-membership-expired.php:14
+#, php-format
+msgid "Your membership %s on %s has expired."
+msgstr ""
+
+#: ../templates/emails/customer-membership-granted.php:16
+#: ../templates/emails/plain/customer-membership-granted.php:14
+#, php-format
+msgid "Your membership %s on %s has been granted."
+msgstr ""
+
+#: ../woocommerce-membership.php:126
+msgid "Support"
+msgstr ""
+
+#: ../woocommerce-membership.php:128 ../woocommerce-membership.php:274
+#: ../woocommerce-membership.php:275
+msgid "Settings"
+msgstr ""
+
+#: ../woocommerce-membership.php:460
+msgid "URL must be filled in."
+msgstr ""
+
+#: ../woocommerce-membership.php:468
+msgid "Method must be selected."
+msgstr ""
+
+#: ../woocommerce-membership.php:477
+msgid ""
+"At least one plan must be selected for methods Members With Plans and Users "
+"Without Plans."
+msgstr ""
+
+#: ../woocommerce-membership.php:498
+msgid "Misconfigured rules were discarded."
+msgstr ""
+
+#: ../woocommerce-membership.php:602
+msgid "Your settings have been saved."
+msgstr ""
+
+#: ../woocommerce-membership.php:608
+msgid "Reverted to a previous value."
+msgstr ""
+
+#: ../woocommerce-membership.php:611
+msgid "must be numeric"
+msgstr ""
+
+#: ../woocommerce-membership.php:612
+msgid "must be either 0 or 1"
+msgstr ""
+
+#: ../woocommerce-membership.php:613
+msgid "is not allowed"
+msgstr ""
+
+#: ../woocommerce-membership.php:614
+msgid "is not a valid email address"
+msgstr ""
+
+#: ../woocommerce-membership.php:615
+msgid "is not a valid URL"
+msgstr ""
+
+#: ../woocommerce-membership.php:616
+msgid "is not a valid text string"
+msgstr ""
+
+#: ../woocommerce-membership.php:622
+msgid "Value of"
+msgstr ""
+
+#: ../woocommerce-membership.php:700
+msgid "Close"
+msgstr ""
+
+#: ../woocommerce-membership.php:737
+msgid "Membership product"
+msgstr ""
+
+#: ../woocommerce-membership.php:738
+msgid "Select Plans"
+msgstr ""
+
+#: ../woocommerce-membership.php:739
+msgid "Select Plan"
+msgstr ""
+
+#: ../woocommerce-membership.php:740
+msgid "Select User"
+msgstr ""
+
+#: ../woocommerce-membership.php:1097
+msgid "day"
+msgid_plural "days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../woocommerce-membership.php:1100
+msgid "week"
+msgid_plural "weeks"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../woocommerce-membership.php:1103
+msgid "month"
+msgid_plural "months"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../woocommerce-membership.php:1106
+msgid "year"
+msgid_plural "years"
+msgstr[0] ""
+msgstr[1] ""

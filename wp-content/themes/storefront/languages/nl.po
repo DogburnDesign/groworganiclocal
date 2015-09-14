@@ -5,6 +5,7 @@
 # Job Thomas <job@woothemes.com>, 2015
 # John Villara <villario@yahoo.com>, 2015
 # Marcel Pol <marcel@timelord.nl>, 2015
+# Mathias Monstrey <mathias.monstrey@gmail.com>, 2015
 # Robin Leysen <robin.w.j.leysen@gmail.com>, 2015
 # Sjoerd de Bruin <sjoerddebruin@me.com>, 2015
 # Ties Alfrink <ties@ponydesignclub.nl>, 2015
@@ -14,8 +15,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Storefront\n"
 "Report-Msgid-Bugs-To: https://github.com/woothemes/storefront/issues\n"
-"POT-Creation-Date: 2015-08-11 11:08:07+00:00\n"
-"PO-Revision-Date: 2015-08-11 11:07+0000\n"
+"POT-Creation-Date: 2015-09-10 10:48:10+00:00\n"
+"PO-Revision-Date: 2015-09-10 10:48+0000\n"
 "Last-Translator: James Koster <jay@woothemes.com>\n"
 "Language-Team: Dutch (http://www.transifex.com/woothemes/storefront-1/language/nl/)\n"
 "MIME-Version: 1.0\n"
@@ -33,19 +34,15 @@ msgstr "Die pagina kon niet gevonden worden"
 msgid ""
 "Nothing was found at this location. Try searching, or check out the links "
 "below."
-msgstr ""
+msgstr "Er is niets gevonden op deze locatie. Probeer eens te zoeken, of bekijk de onderstaande links."
 
-#: 404.php:39 inc/structure/template-tags.php:103
-msgid "Featured Products"
-msgstr "Aanbevolen producten"
-
-#: 404.php:50 inc/structure/template-tags.php:26
+#: 404.php:45 inc/structure/template-tags.php:26
 msgid "Product Categories"
 msgstr "Product categorieën"
 
-#: 404.php:59
+#: 404.php:54
 msgid "Popular Products"
-msgstr ""
+msgstr "Populaire producten"
 
 #: comments.php:33 comments.php:51
 msgid "Comment navigation"
@@ -91,7 +88,7 @@ msgstr "Verbeter uw site"
 msgid ""
 "Below you will find a selection of Storefront extensions that could help "
 "improve your online store."
-msgstr ""
+msgstr "Hieronder kun je een selectie van Storefront plugins terug vinden die je online winkel kunnen verbeteren."
 
 #: inc/admin/welcome-screen/sections/add-ons.php:16
 msgid ""
@@ -235,7 +232,7 @@ msgstr "Boutique sub-thema"
 #: inc/admin/welcome-screen/sections/child-themes.php:42
 #: inc/admin/welcome-screen/sections/child-themes.php:55
 msgid "Free!"
-msgstr ""
+msgstr "Gratis!"
 
 #: inc/admin/welcome-screen/sections/child-themes.php:43
 msgid "Boutique"
@@ -351,7 +348,7 @@ msgstr "Voeg logo toe"
 msgid ""
 "Install and activate %sJetpack%s to enable a custom logo option in the "
 "Customizer."
-msgstr ""
+msgstr "Installeer en activeer %sJetpack%s om \"een aangepaste logo optie\" in te schakelen in de Customizer"
 
 #: inc/admin/welcome-screen/sections/getting-started.php:52
 msgid "Install Jetpack"
@@ -400,17 +397,17 @@ msgstr "Bekijk documentatie &rarr;"
 
 #: inc/admin/welcome-screen/sections/getting-started.php:76
 msgid "Install free plugins"
-msgstr ""
+msgstr "Installeer gratis plugins"
 
 #: inc/admin/welcome-screen/sections/getting-started.php:77
 msgid ""
 "There are a number of free plugins available for Storefront on the "
 "wordpress.org plugin repository."
-msgstr ""
+msgstr "Er zijn een aantal gratis plugins beschikbaar voor Storefront in de wordrpess.org plugin repository."
 
 #: inc/admin/welcome-screen/sections/getting-started.php:80
 msgid "Storefront Product Sharing"
-msgstr ""
+msgstr "Storefront Product Delen"
 
 #: inc/admin/welcome-screen/sections/getting-started.php:83
 msgid "Storefront Product Pagination"
@@ -418,7 +415,7 @@ msgstr "Storefront Product Pagination"
 
 #: inc/admin/welcome-screen/sections/getting-started.php:86
 msgid "Storefront Footer Bar"
-msgstr ""
+msgstr "Storefront Footer balk"
 
 #: inc/admin/welcome-screen/sections/intro.php:14
 msgid ""
@@ -438,7 +435,7 @@ msgstr "Of je nu een winkeleigenaar, WordPress developer of beide bent - we hope
 msgid ""
 "Looking for more Storefront goodies? Take a look at the extensions available"
 " at woothemes.com. %sGo shopping &rarr;%s"
-msgstr ""
+msgstr "Op zoek naar meer Storefront goodies? Kom eens kijken naar de extensies op woothemes.com. %sGa winkelen &rarr;%s"
 
 #: inc/admin/welcome-screen/sections/who.php:14
 msgid "The Woo Team"
@@ -585,7 +582,7 @@ msgstr "Een logo toevoegen? Installeer de %sJetpack%s plugin! %sLees meer%s."
 
 #: inc/customizer/controls.php:124
 msgid "Header background image"
-msgstr ""
+msgstr "Header achtergrond afbeelding"
 
 #: inc/customizer/controls.php:138 inc/customizer/controls.php:195
 #: inc/customizer/controls.php:268
@@ -626,7 +623,7 @@ msgstr "Opmaak"
 
 #: inc/customizer/controls.php:335
 msgid "General Layout"
-msgstr ""
+msgstr "Algemene Layout"
 
 #: inc/customizer/controls.php:348
 msgid "More"
@@ -733,6 +730,10 @@ msgstr "% commentaren"
 msgid "Recent Products"
 msgstr "Recente producten"
 
+#: inc/structure/template-tags.php:103 inc/woocommerce/template-tags.php:144
+msgid "Featured Products"
+msgstr "Aanbevolen producten"
+
 #: inc/structure/template-tags.php:142
 msgid "Top Rated Products"
 msgstr "Best beoordeelde producten"
@@ -750,6 +751,14 @@ msgid "%d item"
 msgid_plural "%d items"
 msgstr[0] "%d artikel"
 msgstr[1] "%d artikelen"
+
+#: inc/woocommerce/template-tags.php:152
+msgid "On Sale Now"
+msgstr ""
+
+#: inc/woocommerce/template-tags.php:160
+msgid "New In Store"
+msgstr ""
 
 #: search.php:16
 msgid "Search Results for: %s"
@@ -799,12 +808,12 @@ msgstr[1] "%1$s gedachten over &ldquo;%2$s&rdquo;"
 #: inc/structure/post.php:115
 msgctxt "Next post"
 msgid "Next"
-msgstr ""
+msgstr "Volgende"
 
 #: inc/structure/post.php:116
 msgctxt "Previous post"
 msgid "Previous"
-msgstr ""
+msgstr "Vorige"
 
 #: inc/structure/post.php:154
 msgctxt "post date"

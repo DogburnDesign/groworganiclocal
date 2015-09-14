@@ -2,12 +2,13 @@
 # This file is distributed under the GNU General Public License v2 or later.
 # Translators:
 # Nuno Alves <nuno.alves@4best.pt>, 2015
+# Peter Anthony Martins <peter@peter-anthony.com>, 2015
 msgid ""
 msgstr ""
 "Project-Id-Version: Storefront\n"
 "Report-Msgid-Bugs-To: https://github.com/woothemes/storefront/issues\n"
-"POT-Creation-Date: 2015-08-11 11:08:07+00:00\n"
-"PO-Revision-Date: 2015-08-11 11:07+0000\n"
+"POT-Creation-Date: 2015-09-10 10:48:10+00:00\n"
+"PO-Revision-Date: 2015-09-10 10:48+0000\n"
 "Last-Translator: James Koster <jay@woothemes.com>\n"
 "Language-Team: Portuguese (Portugal) (http://www.transifex.com/woothemes/storefront-1/language/pt_PT/)\n"
 "MIME-Version: 1.0\n"
@@ -25,19 +26,15 @@ msgstr "Oops! Essa página não foi encontrada."
 msgid ""
 "Nothing was found at this location. Try searching, or check out the links "
 "below."
-msgstr ""
+msgstr "Parece que não foi encontrado nada nesta localização. Tente talvez uma das ligações abaixo ou uma pesquisa?"
 
-#: 404.php:39 inc/structure/template-tags.php:103
-msgid "Featured Products"
-msgstr "Produtos em Destaque"
-
-#: 404.php:50 inc/structure/template-tags.php:26
+#: 404.php:45 inc/structure/template-tags.php:26
 msgid "Product Categories"
 msgstr "Categorias de Produto"
 
-#: 404.php:59
+#: 404.php:54
 msgid "Popular Products"
-msgstr ""
+msgstr "Produtos populares"
 
 #: comments.php:33 comments.php:51
 msgid "Comment navigation"
@@ -83,7 +80,7 @@ msgstr "Melhore o seu site"
 msgid ""
 "Below you will find a selection of Storefront extensions that could help "
 "improve your online store."
-msgstr ""
+msgstr "Pode encontrar uma selecção de extensões abaixo para o Storefront que podem ajuda-lo a melhorar a sua loja online."
 
 #: inc/admin/welcome-screen/sections/add-ons.php:16
 msgid ""
@@ -147,7 +144,7 @@ msgstr "Compre agora o %sStorefront Designer%s"
 msgid ""
 "Optimize the checkout page at your store with the Storefront Checkout "
 "Customiser"
-msgstr ""
+msgstr "Optimize a página \"finalizar compra\" da sua loja com o Storefront Checkout Customiser"
 
 #: inc/admin/welcome-screen/sections/add-ons.php:57
 msgid ""
@@ -725,6 +722,10 @@ msgstr "% Comentários"
 msgid "Recent Products"
 msgstr "Produtos Recentes"
 
+#: inc/structure/template-tags.php:103 inc/woocommerce/template-tags.php:144
+msgid "Featured Products"
+msgstr "Produtos em Destaque"
+
 #: inc/structure/template-tags.php:142
 msgid "Top Rated Products"
 msgstr "Produtos Mais Votados"
@@ -742,6 +743,14 @@ msgid "%d item"
 msgid_plural "%d items"
 msgstr[0] "%d item"
 msgstr[1] "%d itens"
+
+#: inc/woocommerce/template-tags.php:152
+msgid "On Sale Now"
+msgstr ""
+
+#: inc/woocommerce/template-tags.php:160
+msgid "New In Store"
+msgstr ""
 
 #: search.php:16
 msgid "Search Results for: %s"

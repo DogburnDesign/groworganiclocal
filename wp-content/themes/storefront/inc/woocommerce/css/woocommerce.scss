@@ -838,6 +838,7 @@ form.checkout {
 		.button {
 			font-size: 1.387em;
 			width: 100%;
+			white-space: pre-wrap;
 		}
 	}
 }
@@ -1625,7 +1626,7 @@ dl.variation {
 		margin-bottom: 2.618em;
 
 		select {
-			width: 9.505em;
+			width: auto;
 		}
 	}
 

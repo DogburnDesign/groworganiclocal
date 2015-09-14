@@ -2,13 +2,15 @@
 # This file is distributed under the GNU General Public License v2 or later.
 # Translators:
 # Alejandro Castaño Gonzalez <contacto@acgdeveloper.com>, 2015
+# Manuel Lago García <lagomanuel@hotmail.es>, 2015
 # Roberto <correo@robertovazquez.es>, 2015
+# Xabi Crespo <xabicrespog@gmail.com>, 2015
 msgid ""
 msgstr ""
 "Project-Id-Version: Storefront\n"
 "Report-Msgid-Bugs-To: https://github.com/woothemes/storefront/issues\n"
-"POT-Creation-Date: 2015-08-11 11:08:07+00:00\n"
-"PO-Revision-Date: 2015-08-11 11:07+0000\n"
+"POT-Creation-Date: 2015-09-10 10:48:10+00:00\n"
+"PO-Revision-Date: 2015-09-10 10:48+0000\n"
 "Last-Translator: James Koster <jay@woothemes.com>\n"
 "Language-Team: Spanish (http://www.transifex.com/woothemes/storefront-1/language/es/)\n"
 "MIME-Version: 1.0\n"
@@ -26,19 +28,15 @@ msgstr "¡Vaya! No se pudo encontrar esa página."
 msgid ""
 "Nothing was found at this location. Try searching, or check out the links "
 "below."
-msgstr ""
+msgstr "No se ha encontrado nada en esta dirección. Pruebe buscando o compruebe los enlaces mostrados debajo."
 
-#: 404.php:39 inc/structure/template-tags.php:103
-msgid "Featured Products"
-msgstr "Productos destacados"
-
-#: 404.php:50 inc/structure/template-tags.php:26
+#: 404.php:45 inc/structure/template-tags.php:26
 msgid "Product Categories"
 msgstr "Categorías de producto"
 
-#: 404.php:59
+#: 404.php:54
 msgid "Popular Products"
-msgstr ""
+msgstr "Productos populares"
 
 #: comments.php:33 comments.php:51
 msgid "Comment navigation"
@@ -84,7 +82,7 @@ msgstr "Mejora tu sitio"
 msgid ""
 "Below you will find a selection of Storefront extensions that could help "
 "improve your online store."
-msgstr ""
+msgstr "Aquí debajo encontrarás una selección de extensiones para Storefront que pueden ayudarte a mejorar tu tienda online."
 
 #: inc/admin/welcome-screen/sections/add-ons.php:16
 msgid ""
@@ -228,7 +226,7 @@ msgstr "Boutique Child Theme"
 #: inc/admin/welcome-screen/sections/child-themes.php:42
 #: inc/admin/welcome-screen/sections/child-themes.php:55
 msgid "Free!"
-msgstr ""
+msgstr "¡Gratis!"
 
 #: inc/admin/welcome-screen/sections/child-themes.php:43
 msgid "Boutique"
@@ -298,25 +296,25 @@ msgstr "Configurar las ubicaciones de menú"
 msgid ""
 "Storefront includes three menu locations for primary, secondary and handheld"
 " navigation. "
-msgstr ""
+msgstr "Storefront incluye tres localizaciones para los menús primario, secundario y de navegación en dispositivos móviles."
 
 #: inc/admin/welcome-screen/sections/getting-started.php:32
 msgid ""
 "The primary navigation is perfect for your key pages like the shop and "
 "product categories. "
-msgstr ""
+msgstr "La página de navegación primaria es perfecta para tus páginas claves como \"Tienda\" y \"Categorías de productos\""
 
 #: inc/admin/welcome-screen/sections/getting-started.php:33
 msgid ""
 "The secondary navigation is better suited to lower traffic pages such as "
 "terms and conditions."
-msgstr ""
+msgstr "La barra de navegación secundaria es más adecuada para páginas con bajo tráfico como la de \"Términos y condiciones\""
 
 #: inc/admin/welcome-screen/sections/getting-started.php:34
 msgid ""
 "The handheld navigation gives you complete control over what menu items to "
 "serve to handheld devices."
-msgstr ""
+msgstr "La navegación en dispositivos móviles te da un completo control sobre qué elemento del menú mostrar en estos."
 
 #: inc/admin/welcome-screen/sections/getting-started.php:36
 msgid "Configure menus"
@@ -393,7 +391,7 @@ msgstr "Ver la documentación &rarr;"
 
 #: inc/admin/welcome-screen/sections/getting-started.php:76
 msgid "Install free plugins"
-msgstr ""
+msgstr "Instalar plugins gratuitos"
 
 #: inc/admin/welcome-screen/sections/getting-started.php:77
 msgid ""
@@ -726,6 +724,10 @@ msgstr "% Comentarios"
 msgid "Recent Products"
 msgstr "Productos recientes"
 
+#: inc/structure/template-tags.php:103 inc/woocommerce/template-tags.php:144
+msgid "Featured Products"
+msgstr "Productos destacados"
+
 #: inc/structure/template-tags.php:142
 msgid "Top Rated Products"
 msgstr "Productos mejor valorados"
@@ -743,6 +745,14 @@ msgid "%d item"
 msgid_plural "%d items"
 msgstr[0] "%d articulo"
 msgstr[1] "%d artículos"
+
+#: inc/woocommerce/template-tags.php:152
+msgid "On Sale Now"
+msgstr ""
+
+#: inc/woocommerce/template-tags.php:160
+msgid "New In Store"
+msgstr ""
 
 #: search.php:16
 msgid "Search Results for: %s"
@@ -764,7 +774,7 @@ msgid ""
 "your shop, multiple widget regions, a responsive design and much more. "
 "Developers will love it's lean and extensible codebase making it a joy to "
 "customise and extend. Looking for a WooCommerce theme? Look no further!"
-msgstr ""
+msgstr "Storefront es el tema perfecto para tu siguiente proyecto con WooCommerce. Diseñado y desarrollado por WooThemes, se caracteriza por una alta integración con nuestro pluguin WooCommerce, numerosas plantillas y colores para personalizar tu tienda, múltiples zonas para widgets, un diseño responsive y mucho más. A los desarrolladores les encantará su código ligero y extensible, haciéndo que personalizarlo sea un placer. ¿Estás buscando un tema para WooCommerce? ¡No busques más!"
 
 #. Author of the plugin/theme
 msgid "WooThemes"
@@ -792,12 +802,12 @@ msgstr[1] "%1$s comentarios en &ldquo;%2$s&rdquo;"
 #: inc/structure/post.php:115
 msgctxt "Next post"
 msgid "Next"
-msgstr ""
+msgstr "Siguiente"
 
 #: inc/structure/post.php:116
 msgctxt "Previous post"
 msgid "Previous"
-msgstr ""
+msgstr "Anterior"
 
 #: inc/structure/post.php:154
 msgctxt "post date"

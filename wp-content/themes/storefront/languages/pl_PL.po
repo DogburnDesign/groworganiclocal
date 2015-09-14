@@ -2,12 +2,13 @@
 # This file is distributed under the GNU General Public License v2 or later.
 # Translators:
 # Krzysztof Busłowicz <elkurczako1@gmail.com>, 2015
+# Łukasz Bielawski <crazyluki@gmail.com>, 2015
 msgid ""
 msgstr ""
 "Project-Id-Version: Storefront\n"
 "Report-Msgid-Bugs-To: https://github.com/woothemes/storefront/issues\n"
-"POT-Creation-Date: 2015-08-11 11:08:07+00:00\n"
-"PO-Revision-Date: 2015-08-11 11:07+0000\n"
+"POT-Creation-Date: 2015-09-10 10:48:10+00:00\n"
+"PO-Revision-Date: 2015-09-10 10:48+0000\n"
 "Last-Translator: James Koster <jay@woothemes.com>\n"
 "Language-Team: Polish (Poland) (http://www.transifex.com/woothemes/storefront-1/language/pl_PL/)\n"
 "MIME-Version: 1.0\n"
@@ -27,17 +28,13 @@ msgid ""
 "below."
 msgstr ""
 
-#: 404.php:39 inc/structure/template-tags.php:103
-msgid "Featured Products"
-msgstr "Produkty Wyróżnione"
-
-#: 404.php:50 inc/structure/template-tags.php:26
+#: 404.php:45 inc/structure/template-tags.php:26
 msgid "Product Categories"
 msgstr "Kategorie Produktów"
 
-#: 404.php:59
+#: 404.php:54
 msgid "Popular Products"
-msgstr ""
+msgstr "Popularne produkty"
 
 #: comments.php:33 comments.php:51
 msgid "Comment navigation"
@@ -83,7 +80,7 @@ msgstr "Wzbogać swoją stronę"
 msgid ""
 "Below you will find a selection of Storefront extensions that could help "
 "improve your online store."
-msgstr ""
+msgstr "Poniżej znajdziesz wybrane rozszerzenia dla Storefront, które pomogą Ci usprawnić Twój sklep."
 
 #: inc/admin/welcome-screen/sections/add-ons.php:16
 msgid ""
@@ -147,7 +144,7 @@ msgstr "Kup %sStorefront Designer%s"
 msgid ""
 "Optimize the checkout page at your store with the Storefront Checkout "
 "Customiser"
-msgstr ""
+msgstr "Optymalizuj stronę koszyka za pomocą Storefront Checkout Customiser"
 
 #: inc/admin/welcome-screen/sections/add-ons.php:57
 msgid ""
@@ -227,7 +224,7 @@ msgstr "Motyw potomny Boutique"
 #: inc/admin/welcome-screen/sections/child-themes.php:42
 #: inc/admin/welcome-screen/sections/child-themes.php:55
 msgid "Free!"
-msgstr ""
+msgstr "Darmowe"
 
 #: inc/admin/welcome-screen/sections/child-themes.php:43
 msgid "Boutique"
@@ -392,7 +389,7 @@ msgstr "Przejrzyj dokumentację  &rarr;"
 
 #: inc/admin/welcome-screen/sections/getting-started.php:76
 msgid "Install free plugins"
-msgstr ""
+msgstr "Zainstaluj darmowe pluigny"
 
 #: inc/admin/welcome-screen/sections/getting-started.php:77
 msgid ""
@@ -725,13 +722,17 @@ msgstr "% Komentarzy"
 msgid "Recent Products"
 msgstr "Ostatnio oglądane produkty"
 
+#: inc/structure/template-tags.php:103 inc/woocommerce/template-tags.php:144
+msgid "Featured Products"
+msgstr "Produkty Wyróżnione"
+
 #: inc/structure/template-tags.php:142
 msgid "Top Rated Products"
 msgstr "Najlepiej oceniane produkty"
 
 #: inc/structure/template-tags.php:179
 msgid "On Sale"
-msgstr "Wyprzedarz"
+msgstr "Wyprzedaż"
 
 #: inc/woocommerce/template-tags.php:18
 msgid "View your shopping cart"
@@ -743,6 +744,14 @@ msgid_plural "%d items"
 msgstr[0] "%d produkt"
 msgstr[1] "%d produktów"
 msgstr[2] "%d produktów"
+
+#: inc/woocommerce/template-tags.php:152
+msgid "On Sale Now"
+msgstr ""
+
+#: inc/woocommerce/template-tags.php:160
+msgid "New In Store"
+msgstr ""
 
 #: search.php:16
 msgid "Search Results for: %s"
