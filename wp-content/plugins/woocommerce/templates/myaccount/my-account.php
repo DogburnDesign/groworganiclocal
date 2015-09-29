@@ -34,7 +34,5 @@ wc_print_notices(); ?>
 <?php wc_get_template( 'myaccount/my-orders.php', array( 'order_count' => $order_count ) ); ?>
 
 <?php wc_get_template( 'myaccount/my-address.php' ); ?>
-<p>Organization:<?php echo cimy_uef_sanitize_content(get_cimyFieldValue(0, 'ORGANIZATION')); ?></p>
+
 <?php do_action( 'woocommerce_after_my_account' ); ?>
-
-

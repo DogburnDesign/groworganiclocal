@@ -188,6 +188,12 @@ textarea,
 .input-text {
   width: 100%;
 }
+.gform_wrapper h2.gsection_title {
+  color: #ea773b;
+}
+.gform_wrapper .gsection {
+  border-bottom: 1px solid #ea773b;
+}
 /*   WIDGET BAR   */
 .widget h3.widget-title {
   font-family: 'Roboto Slab', serif;
